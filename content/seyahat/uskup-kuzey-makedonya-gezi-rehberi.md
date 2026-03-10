@@ -4,7 +4,7 @@ date: 2024-03-20
 draft: false
 description: "Üsküp gezi rehberi: Kale Kalesi, Çarşı, heykeller ve bütçe ipuçları. Kuzey Makedonya vizesiz. Balkanların en ilginç ve en tartışmalı şehri hakkında kapsamlı rehber."
 tags: ["üsküp", "kuzey makedonya", "gezi rehberi", "vizesiz", "balkanlar", "skopje"]
-categories: ["seyehat"]
+categories: ["seyahat"]
 summary: "Üsküp, Balkanlar'ın en tuhaf ve en ilginç başkentlerinden biri. Dev heykeller, Osmanlı çarşısı ve tartışmalı mimari projesi Skopje 2014 ile şehir adeta bir açık hava müzesi."
 ---
 

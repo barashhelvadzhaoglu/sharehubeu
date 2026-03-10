@@ -4,7 +4,7 @@ date: 2024-08-05
 draft: false
 description: "Tiflis ve Batum'da çoğu rehberde yer almayan saklı yerler, yerel deneyimler ve pratik tüyolar. Sülfür hamamları, Chugureti mahallesi, Kazbegi günübirliği, Ananuri Kalesi ve daha fazlası."
 tags: ["tiflis", "batum", "gürcistan", "saklı yerler", "gezi rehberi", "vizesiz", "kimlikle"]
-categories: ["seyehat"]
+categories: ["seyahat"]
 summary: "Tiflis ve Batum gezi rehberlerinde herkes aynı yerleri anlatıyor. Bu yazıda farklı bir Gürcistan var: az bilinen mahalleler, saklı kafeler, yerel deneyimler ve standart turiste gösterilmeyen köşeler."
 ---
 

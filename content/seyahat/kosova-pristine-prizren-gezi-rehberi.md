@@ -4,7 +4,7 @@ date: 2024-04-10
 draft: false
 description: "Kosova gezi rehberi: Priştine ve Prizren gezilecek yerler, vizesiz giriş, ulaşım ve bütçe. Balkanlarda en az keşfedilmiş ülkelerden biri. Türk gezginler için kapsamlı rehber."
 tags: ["kosova", "priştine", "prizren", "gezi rehberi", "vizesiz", "balkanlar"]
-categories: ["seyehat"]
+categories: ["seyahat"]
 summary: "Kosova, Balkanların en az keşfedilen ülkelerinden biri. Vizesiz, ucuz ve Türk izleriyle dolu. Priştine'nin modern yüzü ve Prizren'in tarihi dokusu — tek gezide iki farklı deneyim."
 ---
 

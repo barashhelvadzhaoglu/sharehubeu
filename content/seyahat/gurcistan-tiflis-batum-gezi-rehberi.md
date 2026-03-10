@@ -4,7 +4,7 @@ date: 2024-09-15
 draft: false
 description: "Gürcistan Tiflis ve Batum gezisi: ulaşım, konaklama, yeme-içme, tren yolculuğu, sınır geçişi ve bütçe. Birebir yaşanmış 5 günlük deneyim."
 tags: ["gürcistan", "tiflis", "batum", "gezi rehberi", "seyahat", "kafkasya", "vizesiz", "sarp sınır kapısı"]
-categories: ["seyehat"]
+categories: ["seyahat"]
 summary: "İstanbul'dan Gürcistan'a kaçırılan uçak, kara yoluyla sınır geçişi, Tiflis'te bebek arabasıyla yürüyüş ve Batum'da taksi kavgası. Süslenmemiş, gerçek bir 5 günlük Gürcistan deneyimi."
 ---
 

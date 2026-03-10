@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Travel"
-  pageRef = "seyehat"
+  pageRef = "seyahat"
   weight = 2
 
 [[main]]

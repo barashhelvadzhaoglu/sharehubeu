@@ -4,7 +4,7 @@ date: 2025-02-01
 draft: false
 description: "Ucuz uçak bileti bulmanın gerçek yöntemleri: Pegasus kampanya saatleri, Google Flights fiyat alarmı, takvim açılış günleri ve esnek rota planlaması. Birebir yaşanmış deneyimler."
 tags: ["ucuz uçak bileti", "pegasus kampanya", "google flights", "uçak bileti", "seyahat ipuçları", "bilet fiyatları"]
-categories: ["seyehat"]
+categories: ["seyahat"]
 summary: "Ucuz uçak bileti bulmak şans işi değil — sistemi tanımak meselesi. Pegasus kampanya saatleri, Google Flights alarmı ve esnek rota planlaması ile nasıl çok uygun biletler yakalanır."
 ---
 

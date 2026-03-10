@@ -4,7 +4,7 @@ date: 2024-06-10
 draft: false
 description: "Zürih gezilecek yerler, ulaşım, konaklama ve bütçe rehberi. Grossmünster, Bahnhofstrasse, Zürih Gölü ve Lindt Çikolata Müzesi. İsviçre'nin en pahalı şehrinde nasıl tasarruf edilir?"
 tags: ["zürih", "isviçre", "gezi rehberi", "gezilecek yerler", "avrupa", "schengen"]
-categories: ["seyehat"]
+categories: ["seyahat"]
 summary: "İsviçre'nin finans başkenti Zürih, dünyanın en pahalı şehirlerinden biri. Ama doğru planlamayla hem cüzdanı yakmadan hem de şehrin en iyi yerlerini görerek gezmek mümkün."
 ---
 

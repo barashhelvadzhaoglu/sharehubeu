@@ -4,7 +4,7 @@ date: 2024-07-01
 draft: false
 description: "Yunanistan gezi rehberi: Atina Akropolis, Santorini, Mykonos ve bütçe ipuçları. Schengen vizesiyle giriş. Yunan mutfağı, ulaşım ve konaklama — kapsamlı rehber."
 tags: ["yunanistan", "atina", "santorini", "gezi rehberi", "schengen", "akdeniz", "adalar"]
-categories: ["seyehat"]
+categories: ["seyahat"]
 summary: "Yunanistan hem tarihin hem de güneşin adresi. Atina'da Akropolis, adalarda turkuaz deniz. Schengen vizesiyle girilebilen Yunanistan'da nereden başlamalı, bütçe nasıl planlanmalı?"
 ---
 
