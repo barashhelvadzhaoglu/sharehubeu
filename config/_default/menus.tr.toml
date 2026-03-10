@@ -1,29 +1,24 @@
 [[main]]
   name = "Ana Sayfa"
-  identifier = "home"
-  url = "/"
+  pageRef = "/"
   weight = 1
 
 [[main]]
   name = "Almanya"
-  identifier = "almanya"
-  url = "/almanya"
+  pageRef = "almanya"
   weight = 2
 
 [[main]]
   name = "Seyahat"
-  identifier = "seyahat"
-  url = "/seyahat"
+  pageRef = "seyahat"
   weight = 3
 
 [[main]]
   name = "Hakkımda"
-  identifier = "hakkimda"
-  url = "/hakkimda"
+  pageRef = "hakkimda"
   weight = 4
 
 [[main]]
   name = "İletişim"
-  identifier = "iletisim"
-  url = "/iletisim"
+  pageRef = "iletisim"
   weight = 5
