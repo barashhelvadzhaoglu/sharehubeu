@@ -1,18 +1,18 @@
 languageCode = "de"
 languageName = "Deutsch"
 weight = 3
-title = "Share Hub"
+title = "Teilen-Zentrum"
 
 [params]
-  homepageImage = "/img/sharehubeu-hero.png"
-  logo = "/img/sharehubeu-logo.png"
-  showLogo = true
-  layout = "hero"
-  showTitle = true
-  showName = true
   displayName = "DE"
   isoCode = "de"
+  logo = "/img/sharehubeu-logo.png"
+  homepageImage = "/img/sharehubeu-hero.png"
+  showLogo = true
+  showName = true
+  layout = "hero"
+  showTitle = true
   rtl = false
-  dateFormat = "2. January 2006"
+  dateFormat = "2. Januar 2006"
   description = "Echte Reisen, echte Fehler, echte Erfahrungen."
   author.name = "Share-Hub-EU"

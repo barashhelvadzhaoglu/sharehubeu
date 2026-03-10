@@ -4,14 +4,14 @@ weight = 1
 title = "Paylaşım Merkezi"
 
 [params]
+  displayName = "TR"
+  isoCode = "tr"
   logo = "/img/sharehubeu-logo.png"
+  homepageImage = "/img/sharehubeu-hero.png"
   showLogo = true
   showName = true
   layout = "hero"
-  homepageImage = "/img/sharehubeu-hero.png"
   showTitle = true
-  displayName = "TR"
-  isoCode = "tr"
   rtl = false
   dateFormat = "2 Ocak 2006"
   description = "Gerçek geziler, gerçek hatalar, gerçek deneyimler."

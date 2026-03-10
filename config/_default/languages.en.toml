@@ -4,14 +4,14 @@ weight = 2
 title = "Share Hub"
 
 [params]
-  homepageImage = "/img/sharehubeu-hero.png"
-  logo = "/img/sharehubeu-logo.png"
-  showLogo = true
-  layout = "hero"
-  showTitle = true
-  showName = true
   displayName = "EN"
   isoCode = "en"
+  logo = "/img/sharehubeu-logo.png"
+  homepageImage = "/img/sharehubeu-hero.png"
+  showLogo = true
+  showName = true
+  layout = "hero"
+  showTitle = true
   rtl = false
   dateFormat = "January 2, 2006"
   description = "Real trips, real mistakes, real experiences."
