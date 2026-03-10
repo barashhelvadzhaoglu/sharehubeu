@@ -4,6 +4,12 @@ weight = 3
 title = "Share Hub"
 
 [params]
+  homepageImage = "img/sharehubeu-hero.png"
+  logo = "img/sharehubeu-logo.png"
+  showLogo = true
+  layout = "fixed"
+  showTitle = true
+  showName = true
   displayName = "DE"
   isoCode = "de"
   rtl = false

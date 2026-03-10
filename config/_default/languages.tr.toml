@@ -4,6 +4,12 @@ weight = 1
 title = "Paylaşım Merkezi"
 
 [params]
+  logo = "img/sharehubeu-logo.png"
+  showLogo = true
+  showName = true
+  layout = "fixed"
+  homepageImage = "img/sharehubeu-hero.png"
+  showTitle = true
   displayName = "TR"
   isoCode = "tr"
   rtl = false
