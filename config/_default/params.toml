@@ -22,7 +22,7 @@ mainSections = ["almanya", "seyahat"]
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = true
-# backgroundImageWidth = 1200
+backgroundImageWidth = 1200
 
 defaultBackgroundImage = "/img/sharehubeu-hero.png"
 defaultFeaturedImage = "/img/featured.svg"
