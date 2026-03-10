@@ -2,6 +2,7 @@
 title: "Üsküp Gezi Rehberi | Kuzey Makedonya Başkenti | Vizesiz (2024)"
 date: 2024-03-20
 draft: false
+featureimage: "https://images.unsplash.com/photo-1712159618274-a8fdd21ac9c6?w=1200&q=80"
 description: "Üsküp gezi rehberi: Kale Kalesi, Çarşı, heykeller ve bütçe ipuçları. Kuzey Makedonya vizesiz. Balkanların en ilginç ve en tartışmalı şehri hakkında kapsamlı rehber."
 tags: ["üsküp", "kuzey makedonya", "gezi rehberi", "vizesiz", "balkanlar", "skopje"]
 categories: ["seyahat"]

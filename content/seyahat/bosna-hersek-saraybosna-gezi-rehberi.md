@@ -2,6 +2,7 @@
 title: "Bosna Hersek Saraybosna Gezi Rehberi | Vizesiz, Ucuz ve Tarihi (2024)"
 date: 2024-05-15
 draft: false
+featureimage: "https://images.unsplash.com/photo-1558642084-fd07fae5282e?w=1200&q=80"
 description: "Saraybosna gezi rehberi: vizesiz giriş, Başçarşı, Mostar Köprüsü, Latin Köprüsü ve bütçe ipuçları. Osmanlı izleri ve savaş tarihi iç içe. Türk gezginler için kapsamlı rehber."
 tags: ["saraybosna", "bosna hersek", "gezi rehberi", "vizesiz", "balkanlar", "mostar"]
 categories: ["seyahat"]

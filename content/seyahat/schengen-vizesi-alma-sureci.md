@@ -2,6 +2,7 @@
 title: "Schengen Vizesi Alma Süreci (2025) | Kozmos, Randevu ve Gerçek Deneyimler"
 date: 2025-01-10
 draft: false
+featureimage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80"
 description: "Schengen vizesi nasıl alınır? Kozmos üzerinden Yunanistan vizesi, randevu bulma taktikleri, VIP başvuru ve AB vatandaşı yakını başvurusu. 2021–2025 arası 5 başarılı başvuru deneyimi."
 tags: ["schengen vizesi", "yunanistan vizesi", "kozmos", "vize başvurusu", "türkiye schengen", "randevu"]
 categories: ["seyahat"]

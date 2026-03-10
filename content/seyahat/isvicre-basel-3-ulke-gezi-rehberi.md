@@ -2,6 +2,7 @@
 title: "İsviçre Basel Gezi Rehberi | Tek Şehirden 3 Ülke: İsviçre, Fransa, Almanya (2024)"
 date: 2024-06-20
 draft: false
+featureimage: "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=1200&q=80"
 description: "Basel gezi rehberi: Ren Nehri, Marktplatz, Münster Katedrali ve 3 ülke köşesi. İsviçre, Fransa ve Almanya aynı gezide nasıl gezilir? Ulaşım, bütçe ve pratik ipuçları."
 tags: ["basel", "isviçre", "fransa", "almanya", "gezi rehberi", "schengen", "3 ülke"]
 categories: ["seyahat"]

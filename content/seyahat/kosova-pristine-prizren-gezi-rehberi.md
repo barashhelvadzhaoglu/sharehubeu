@@ -2,6 +2,7 @@
 title: "Kosova Gezi Rehberi | Priştine ve Prizren | Vizesiz Balkan Rotası (2024)"
 date: 2024-04-10
 draft: false
+featureimage: "https://images.unsplash.com/photo-1622547748225-3fc4abd2cca0?w=1200&q=80"
 description: "Kosova gezi rehberi: Priştine ve Prizren gezilecek yerler, vizesiz giriş, ulaşım ve bütçe. Balkanlarda en az keşfedilmiş ülkelerden biri. Türk gezginler için kapsamlı rehber."
 tags: ["kosova", "priştine", "prizren", "gezi rehberi", "vizesiz", "balkanlar"]
 categories: ["seyahat"]
