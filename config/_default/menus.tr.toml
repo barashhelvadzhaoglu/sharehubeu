@@ -1,0 +1,19 @@
+[[main]]
+  name = "Almanya"
+  pageRef = "almanya"
+  weight = 1
+
+[[main]]
+  name = "Seyahat"
+  pageRef = "seyehat"
+  weight = 2
+
+[[main]]
+  name = "Hakkımda"
+  pageRef = "hakkimda"
+  weight = 3
+
+[[main]]
+  name = "İletişim"
+  pageRef = "iletisim"
+  weight = 4

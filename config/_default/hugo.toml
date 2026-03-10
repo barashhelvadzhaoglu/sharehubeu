@@ -1,0 +1,9 @@
+baseURL = "https://share-hub-eu.online/"
+defaultContentLanguage = "tr"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+paginate = 10
+theme = "blowfish"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

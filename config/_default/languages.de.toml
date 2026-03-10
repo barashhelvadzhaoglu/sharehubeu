@@ -1,0 +1,12 @@
+languageCode = "de"
+languageName = "Deutsch"
+weight = 3
+title = "Share Hub"
+
+[params]
+  displayName = "DE"
+  isoCode = "de"
+  rtl = false
+  dateFormat = "2. January 2006"
+  description = "Echte Reisen, echte Fehler, echte Erfahrungen."
+  author.name = "Barash"

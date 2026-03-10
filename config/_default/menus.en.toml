@@ -1,0 +1,19 @@
+[[main]]
+  name = "Germany"
+  pageRef = "almanya"
+  weight = 1
+
+[[main]]
+  name = "Travel"
+  pageRef = "seyehat"
+  weight = 2
+
+[[main]]
+  name = "About"
+  pageRef = "hakkimda"
+  weight = 3
+
+[[main]]
+  name = "Contact"
+  pageRef = "iletisim"
+  weight = 4
