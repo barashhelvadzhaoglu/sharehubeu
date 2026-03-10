@@ -1,6 +1,6 @@
 ---
-title: "Sharehub Gezi Rehberi"
-description: "Dünyanın dört bir yanından güncel gezi notları, rotalar ve seyahat ipuçları."
-layout: "main"
+title: "Sharehub"
+description: "Dünyanın Dört Bir Yanından Özgün Gezi Rehberleri ve Rotalar."
 ---
-Explore the world with us.
+
+Aşağıdaki kategorilerden keşfetmeye başlayın.
