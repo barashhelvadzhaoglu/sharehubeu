@@ -135,4 +135,4 @@ Hemen her yerde geçiyor. Nakit pek gerekmez ama küçük miktarda CHF bulundurm
 Pegasus veya diğer havayollarının kampanya dönemlerini takip edin. Kış ayları (Kasım–Mart) daha uygun fiyatlı.
 
 **Lindt çikolata müzesi şehir merkezinde mi?**
-Hayır, Kilchberg semtinde, merkeze ~20 dakika. S6 treni ile Kilchberg istasyonuna, oradan 10 dakika yürüyüş.
+Hayır, Kilchberg semtinde, merkeze ~20 dakika. S8 treni ile Kilchberg istasyonuna, oradan 10 dakika yürüyüş.
