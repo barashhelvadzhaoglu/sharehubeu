@@ -6,8 +6,8 @@ title = "Paylaşım Merkezi"
 [params]
   displayName = "TR"
   isoCode = "tr"
-  logo = "/img/sharehubeu-logo.png"
-  homepageImage = "/img/sharehubeu-hero.png"
+  logo = "img/sharehubeu-logo.png"
+  homepageImage = "img/sharehubeu-hero.png"
   showLogo = true
   showName = true
   layout = "hero"
