@@ -10,6 +10,6 @@ showTableOfContents: false
 
 İş birlikleri, sorular ve geri bildirimler için:
 
-**[email protected]**
+**info (at) share-hub-eu.online**
 
 Yazılarla ilgili deneyimlerinizi, eklemek istediklerinizi veya düzeltmelerinizi de iletebilirsiniz. Her mesajı okuyor ve yanıtlıyorum.
