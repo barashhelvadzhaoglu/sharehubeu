@@ -43,9 +43,6 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showLogo = true
   showName = true
   logo = "img/sharehubeu-logo.png"
-  showLogo = true
-  showName = true
-  logo = "img/sharehubeu-logo.png"
   layout = "fixed"
 
 [footer]
@@ -56,7 +53,6 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showScrollToTop = true
 
 [homepage]
-  showTitle = true
   showTitle = true
   layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/sharehubeu-hero.png"
