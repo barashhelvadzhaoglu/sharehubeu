@@ -24,7 +24,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = true
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "/img/grid.svg"
+defaultBackgroundImage = "/img/sharehubeu-hero.png"
 defaultFeaturedImage = "/img/featured.svg"
 defaultSocialImage = "/img/blowfish_banner.png"
 hotlinkFeatureImage = false
