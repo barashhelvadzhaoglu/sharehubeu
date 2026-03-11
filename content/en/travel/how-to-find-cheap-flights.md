@@ -1,4 +1,5 @@
 ---
+translationKey: "post-ucak-bileti"
 title: "How to Find Cheap Flights | Pegasus, Google Flights and Real Tactics"
 date: 2025-02-01
 draft: false

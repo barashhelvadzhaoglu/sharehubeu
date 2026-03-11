@@ -1,4 +1,5 @@
 ---
+translationKey: "post-tiflis-batum"
 title: "Gürcistan Gezi Rehberi: Tiflis & Batum | 5 Günlük Gerçek Deneyim (2024)"
 date: 2024-09-15
 draft: false

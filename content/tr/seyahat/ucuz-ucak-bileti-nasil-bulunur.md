@@ -1,4 +1,5 @@
 ---
+translationKey: "post-ucak-bileti"
 title: "Ucuz Uçak Bileti Nasıl Bulunur? | Pegasus, Google Flights ve Gerçek Taktikler"
 date: 2025-02-01
 draft: false

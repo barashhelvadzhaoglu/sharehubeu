@@ -1,43 +1,17 @@
 ---
 title: "Hakkımda"
+description: "Share Hub nedir, kimler için yazılıyor ve ne tür içerikler bulunuyor?"
+translationKey: "about-page"
 ---
 
-### Merhaba!
-Münih'ten gezi notları ve network dünyası çok yakında burada olacak.
----
-title: "Hakkımda"
-date: 2024-01-01
-draft: false
-description: "Share Hub nedir, kimler için yazılıyor, ne tür içerikler bulunuyor."
----
+## Merhaba, Share Hub'a Hoş Geldin!
 
-## Merhaba, Share Hub'a hoş geldin!
+Bu blog; Almanya'da yaşayanlar, Avrupa'ya taşınmayı düşünenler ve Balkanlar'dan Kafkasya'ya uzanan rotaları keşfetmek isteyenler için yazılıyor. 
 
-Bu blog; Almanya'da yaşayanlar, Avrupa'ya taşınmayı düşünenler ve Balkanlar'dan Kafkasya'ya uzanan rotaları keşfetmek isteyenler için yazılıyor.
+Burada resmi bilgileri değil, **bizzat yaşanmış deneyimleri** buluyorsun. Münih'te ehliyet yenileme sürecinde hangi evrakta takıldım, vize randevusunu nasıl buldum veya 1 ve 5 yaşındaki iki çocukla (ve o devasa ikiz bebek arabasıyla) Tiflis'in sülfür hamamlarından nasıl çıktım — bunların hepsini olduğu gibi anlattım.
 
-Burada resmi bilgileri değil, **bizzat yaşanmış deneyimleri** buluyorsun. Ehliyet yenileme sürecinde hangi evrakta takıldım, vizede randevuyu nasıl buldum, Tiflis'te sülfür hamamından nasıl çıktım — bunların hepsini olduğu gibi anlattım.
+### Ne Bulursun Burada?
 
----
-
-## Ne Bulursun Burada?
-
-**Almanya'da Yaşam**
-Almanya bürokratik bir ülke. Ehliyet, kira, resmi işlemler — her adımda bir sürpriz seni bekliyor. Türkçe kaynak çok az olduğu için bizzat geçtiğim süreçleri adım adım yazdım.
-
-**Gezi Rehberleri**
-Balkanlar, Kafkasya, Orta Avrupa... Genellikle az bilinen rotalar ve Türk gezgin perspektifinden pratik bilgiler. Ulaşım, konaklama, bütçe — hepsini gerçek rakamlarla.
-
-**Pratik İpuçları**
-Ucuz uçak bileti nasıl bulunur, Schengen vizesi için randevu nasıl alınır, hangi araçlar işe yarıyor — deneyerek öğrendiklerimi paylaşıyorum.
-
----
-
-## Neden Bu Blog?
-
-Almanya'ya ilk geldiğimde Türkçe kaynak bulmak gerçekten zordu. Resmi siteler Almanca, forumlar eski bilgi dolu. Zamanla hem Almanya'daki yaşamı hem de çevredeki ülkeleri gezmek için kendi notlarımı tutmaya başladım.
-
-Share Hub bu notların derli toplu hali. Umarım sana da işe yarar.
-
----
-
-Sormak istediklerin olursa → **[İletişim](/iletisim)**
+* **Almanya'da Yaşam:** Bürokrasinin içinde kaybolmadan ehliyet, kira ve resmi işlemleri nasıl halledeceğinize dair pratik rehberler.
+* **Çocukla Gezi Rehberleri:** Deutschlandticket kullanarak Münih'ten ulaşılabilecek rotalar ve bebek arabasıyla gezilebilecek şehirler.
+* **Network Dünyası:** Bir Network Security Mühendisi gözüyle teknoloji ve sektörel notlar.

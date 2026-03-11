@@ -1,4 +1,5 @@
 ---
+translationKey: "post-uskup"
 title: "Skopje Reiseführer | Nordmazedonien Hauptstadt | Visumfrei (2024)"
 date: 2024-03-20
 draft: false

@@ -1,4 +1,5 @@
 ---
+translationKey: "post-tiflis-batum"
 title: "Georgien Reiseführer: Tiflis & Batumi | 5-tägige Echtzeiterfahrung (2024)"
 date: 2024-09-15
 draft: false

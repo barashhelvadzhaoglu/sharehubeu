@@ -1,4 +1,5 @@
 ---
+translationKey: "post-tiflis-batum"
 title: "Georgia Travel Guide: Tbilisi & Batumi | 5-Day Real Experience (2024)"
 date: 2024-09-15
 draft: false

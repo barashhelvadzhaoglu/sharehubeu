@@ -1,4 +1,5 @@
 ---
+translationKey: "post-schengen"
 title: "How to Get a Schengen Visa (2025) | Kozmos, Appointments and Real Experiences"
 date: 2025-01-10
 draft: false

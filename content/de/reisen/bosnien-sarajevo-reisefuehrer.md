@@ -1,4 +1,5 @@
 ---
+translationKey: "post-saraybosna"
 title: "Bosnien-Herzegowina Sarajevo Reiseführer | Visumfrei, Günstig & Historisch (2024)"
 date: 2024-05-15
 draft: false

@@ -1,4 +1,5 @@
 ---
+translationKey: "post-tiflis-sakli"
 title: "Tiflis ve Batum'da Görmedikleriniz | Saklı Kalan 15 Yer ve Deneyim"
 date: 2024-08-05
 draft: false

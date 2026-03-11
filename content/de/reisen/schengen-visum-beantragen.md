@@ -1,4 +1,5 @@
 ---
+translationKey: "post-schengen"
 title: "Schengen-Visum beantragen (2025) | Kozmos, Termine und echte Erfahrungen"
 date: 2025-01-10
 draft: false

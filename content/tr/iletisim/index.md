@@ -1,11 +1,6 @@
 ---
 title: "İletişim"
-description: "Paylaşım Merkezi ile iletişime geçin."
-date: 2025-01-01
-draft: false
-showDate: false
-showReadingTime: false
-showTableOfContents: false
+translationKey: "contact-page"
 ---
 
 İş birlikleri, sorular ve geri bildirimler için:

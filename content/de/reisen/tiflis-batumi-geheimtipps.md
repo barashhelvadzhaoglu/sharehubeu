@@ -1,4 +1,5 @@
 ---
+translationKey: "post-tiflis-sakli"
 title: "Geheimtipps in Tiflis und Batumi | 15 Orte, die Sie noch nicht gesehen haben"
 date: 2024-08-05
 draft: false

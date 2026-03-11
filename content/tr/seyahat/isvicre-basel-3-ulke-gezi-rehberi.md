@@ -1,4 +1,5 @@
 ---
+translationKey: "post-basel"
 title: "İsviçre Basel Gezi Rehberi | Tek Şehirden 3 Ülke: İsviçre, Fransa, Almanya (2024)"
 date: 2024-06-20
 draft: false

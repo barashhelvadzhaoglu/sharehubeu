@@ -1,8 +1,6 @@
 ---
-title: "Seyahat"
-description: "Gittiğimiz şehirler, ülkeler ve yol boyunca yaşadıklarımız. Turistik broşür dili değil; gerçek deneyimler, gerçek sorunlar."
-date: 2025-01-01
-draft: false
+title: "Seyahat Rehberleri"
+translationKey: "travel-list"
 ---
 
 **Gittiğimiz şehirler, ülkeler ve yol boyunca yaşadıklarımız.**

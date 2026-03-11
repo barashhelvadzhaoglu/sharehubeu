@@ -1,4 +1,5 @@
 ---
+translationKey: "post-schengen"
 title: "Schengen Vizesi Alma Süreci (2025) | Kozmos, Randevu ve Gerçek Deneyimler"
 date: 2025-01-10
 draft: false

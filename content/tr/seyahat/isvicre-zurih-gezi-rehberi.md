@@ -1,4 +1,5 @@
 ---
+translationKey: "post-zurih"
 title: "İsviçre Zürih Gezi Rehberi | Gezilecek Yerler, Ulaşım ve Bütçe (2024)"
 date: 2024-06-10
 draft: false

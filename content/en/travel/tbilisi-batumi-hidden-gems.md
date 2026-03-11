@@ -1,4 +1,5 @@
 ---
+translationKey: "post-tiflis-sakli"
 title: "Hidden Gems in Tbilisi and Batumi | 15 Places You Haven't Seen"
 date: 2024-08-05
 draft: false

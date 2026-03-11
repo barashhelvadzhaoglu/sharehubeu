@@ -1,4 +1,5 @@
 ---
+translationKey: "post-atina"
 title: "Griechenland Reiseführer | Athen, Inseln und praktische Tipps (2024)"
 date: 2024-07-01
 draft: false
