@@ -1,4 +1,5 @@
 ---
-title: "Ueber-mich"
+title: "Über Mich"
 translationKey: "hakkimda-section"
 ---
+

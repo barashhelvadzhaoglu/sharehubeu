@@ -1,4 +1,5 @@
 ---
-title: "Hakkimda"
+title: "Hakkımda"
 translationKey: "hakkimda-section"
 ---
+
