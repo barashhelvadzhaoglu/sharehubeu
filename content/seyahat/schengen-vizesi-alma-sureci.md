@@ -4,7 +4,7 @@ date: 2025-01-10
 draft: false
 featureimage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80"
 description: "Schengen vizesi nasıl alınır? Kozmos üzerinden Yunanistan vizesi, randevu bulma taktikleri, VIP başvuru ve AB vatandaşı yakını başvurusu. 2021–2025 arası 5 başarılı başvuru deneyimi."
-tags: ["schengen vizesi", "yunanistan vizesi", "kozmos", "vize başvurusu", "türkiye schengen", "randevu"]
+tags: ["schengen vizesi", "yunanistan vizesi", "kozmos", "vize başvurusu", "türkiye schengen", "randevu", "schengen vize nasıl alınır", "vize randevu ipuçları", "VFS global", "schengen red", "vize evrakları", "schengen banka hesabı", "seyahat sigortası", "schengen 2024", "vize başvuru formu", "schengen vize ücreti", "vize kaç günde çıkar", "vize reddi itiraz", "türk pasaportu schengen", "schengen vize süreci"]
 categories: ["seyahat"]
 summary: "Pandemi sonrası Schengen vizesi almak zorlaştı. Kozmos üzerinden Yunanistan vizesi, randevu bulma taktikleri ve AB vatandaşı yakını başvurusu — 5 başarılı başvurunun özeti."
 ---

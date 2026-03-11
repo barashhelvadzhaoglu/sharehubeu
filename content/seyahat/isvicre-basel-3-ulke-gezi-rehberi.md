@@ -4,7 +4,7 @@ date: 2024-06-20
 draft: false
 featureimage: "https://images.unsplash.com/photo-1527489377706-5bf97e608852?w=1200&q=80"
 description: "Basel gezi rehberi: Ren Nehri, Marktplatz, Münster Katedrali ve 3 ülke köşesi. İsviçre, Fransa ve Almanya aynı gezide nasıl gezilir? Ulaşım, bütçe ve pratik ipuçları."
-tags: ["basel", "isviçre", "fransa", "almanya", "gezi rehberi", "schengen", "3 ülke"]
+tags: ["basel", "isviçre", "fransa", "almanya", "gezi rehberi", "schengen", "3 ülke", "basel gezilecek yerler", "3 ülke köşesi", "alsace", "schwarzwald", "basel ren nehri", "marktplatz basel", "basel ulaşım", "isviçre fransa almanya turu", "basel konaklama", "basel bütçe", "basel 2024", "avrupa çoklu ülke turu", "günübirlik fransa almanya"]
 categories: ["seyahat"]
 summary: "Basel'de sabah kahvaltısını Fransa'da yapabilir, öğle yemeğinizi Almanya'da yiyebilirsiniz. İsviçre, Fransa ve Almanya'nın tam kesişim noktasında duran bu şehir, tek bir gezide üç ülke demek."
 ---

@@ -4,7 +4,7 @@ date: 2024-05-15
 draft: false
 featureimage: "https://images.unsplash.com/photo-1558642084-fd07fae5282e?w=1200&q=80"
 description: "Saraybosna gezi rehberi: vizesiz giriş, Başçarşı, Mostar Köprüsü, Latin Köprüsü ve bütçe ipuçları. Osmanlı izleri ve savaş tarihi iç içe. Türk gezginler için kapsamlı rehber."
-tags: ["saraybosna", "bosna hersek", "gezi rehberi", "vizesiz", "balkanlar", "mostar"]
+tags: ["saraybosna", "bosna hersek", "gezi rehberi", "vizesiz", "balkanlar", "mostar", "saraybosna gezilecek yerler", "bosna ucuz tatil", "balkan turu", "saraybosna ulaşım", "başçarşı", "latin köprüsü", "mostar günübirlik", "bosna yeme içme", "bosna konaklama", "balkan gezi rotası", "türk pasaportu balkanlar", "bosna bütçe tatil", "saraybosna 2024", "avrupa ucuz tatil"]
 categories: ["seyahat"]
 summary: "Saraybosna, Osmanlı izleri, savaş tarihi ve tanıdık yüzleriyle Türk gezginler için hem yakın hem derinden etkileyen bir destinasyon. Vizesiz, ucuz ve uçakla 1.5 saat."
 ---
