@@ -1,4 +1,4 @@
 ---
-title: "Deutschland"
+title: "Almanya"
 translationKey: "almanya-section"
 ---

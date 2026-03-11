@@ -2,7 +2,7 @@
 title: "Yunanistan Gezi Rehberi | Atina, Adalar ve Pratik Bilgiler (2024)"
 date: 2024-07-01
 draft: false
-featureimage: "https://images.unsplash.com/photo-1555993539-1732b0258235?w=1200&q=80"
+featureImage: "https://images.unsplash.com/photo-1516483642785-215a7295119c?w=1200&q=80"
 description: "Yunanistan gezi rehberi: Atina Akropolis, Santorini, Mykonos ve bütçe ipuçları. Schengen vizesiyle giriş. Yunan mutfağı, ulaşım ve konaklama — kapsamlı rehber."
 tags: ["yunanistan", "atina", "santorini", "gezi rehberi", "schengen", "akdeniz", "adalar", "atina gezilecek yerler", "akropolis", "plaka", "monastiraki", "yunanistan adaları", "santorini mykonos", "yunanistan bütçe", "atina ulaşım", "yunanistan konaklama", "yunanistan yeme içme", "yunanistan schengen vize", "atina 2024", "ege adaları", "atina 3 günlük program"]
 categories: ["seyahat"]

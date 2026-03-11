@@ -2,7 +2,7 @@
 title: "Üsküp Gezi Rehberi | Kuzey Makedonya Başkenti | Vizesiz (2024)"
 date: 2024-03-20
 draft: false
-featureimage: "https://images.unsplash.com/photo-1712159618274-a8fdd21ac9c6?w=1200&q=80"
+featureImage: "https://images.unsplash.com/photo-1552554625-78e20253597c?w=1200&q=80"
 description: "Üsküp gezi rehberi: Kale Kalesi, Çarşı, heykeller ve bütçe ipuçları. Kuzey Makedonya vizesiz. Balkanların en ilginç ve en tartışmalı şehri hakkında kapsamlı rehber."
 tags: ["üsküp", "kuzey makedonya", "gezi rehberi", "vizesiz", "balkanlar", "skopje", "üsküp gezilecek yerler", "skopje 2014", "matka kanyonu", "üsküp eski çarşı", "kuzey makedonya ulaşım", "üsküp bütçe", "balkan turu", "kuzey makedonya konaklama", "üsküp yeme içme", "balkan gezi rotası", "kuzey makedonya 2024", "vizesiz balkan ülkeleri", "üsküp kale", "en ucuz avrupa tatili"]
 categories: ["seyahat"]

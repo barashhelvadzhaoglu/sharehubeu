@@ -2,7 +2,7 @@
 title: "Almanya'da Ehliyet Yenileme Süreci | Türk & Bulgar Ehliyeti Gerçeği"
 date: 2025-03-10
 draft: false
-featureimage: "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1200&q=80"
+featureImage: "https://images.unsplash.com/photo-1594051664297-665ebef32945?w=1200&q=80"
 description: "Almanya'da Türk ehliyeti kaç ay geçerli? Bulgaristan üzerinden ehliyet çevirme işe yarıyor mu? 2024-2025 güncel bilgi ve birebir yaşanmış deneyim."
 tags: ["almanya", "ehliyet", "bulgaristan", "expat", "führerschein", "sürücü belgesi", "anmeldung", "almanya ehliyet yenileme", "türk ehliyeti almanya", "ab ehliyeti dönüşüm", "almanya sürücü kursu", "theorieprüfung", "fahrprüfung", "almanya ehliyet maliyeti", "führerschein umschreiben", "almanya expat rehberi", "almanyada ehliyet", "almanya 2024", "almanya bürokratik işlemler", "yabancı ehliyet almanya"]
 categories: ["almanya"]
