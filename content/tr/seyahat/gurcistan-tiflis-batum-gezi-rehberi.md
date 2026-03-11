@@ -2,7 +2,7 @@
 title: "Gürcistan Gezi Rehberi: Tiflis & Batum | 5 Günlük Gerçek Deneyim (2024)"
 date: 2024-09-15
 draft: false
-featureImage: "https://images.unsplash.com/photo-1565008576549-57569a49371d?w=1200&q=80"
+featureImage: "https://images.pexels.com/photos/10321394/pexels-photo-10321394.jpeg?auto=compress&cs=tinysrgb&w=1200"
 description: "Gürcistan Tiflis ve Batum gezisi: ulaşım, konaklama, yeme-içme, tren yolculuğu, sınır geçişi ve bütçe. Birebir yaşanmış 5 günlük deneyim."
 tags: ["gürcistan", "tiflis", "batum", "gezi rehberi", "seyahat", "kafkasya", "vizesiz", "sarp sınır kapısı", "gürcistan gezi", "tiflis gezilecek yerler", "batum gezilecek yerler", "gürcistan bütçe", "kafkasya turu", "türk pasaportu vizesiz", "gürcistan ulaşım", "tiflis konaklama", "gürcistan yeme içme", "gürcistan para birimi", "avrupa ucuz tatil", "gürcistan 2024"]
 categories: ["seyahat"]
