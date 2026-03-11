@@ -1,10 +1,13 @@
 ---
 title: "Seyahat Rehberleri"
+description: "Turist broşürü değil; gerçek deneyimler, hatalar ve rotalar."
 translationKey: "travel-list"
 ---
 
-**Gittiğimiz şehirler, ülkeler ve yol boyunca yaşadıklarımız.**
+**Gezdiğimiz şehirler, ülkeler ve yolda başımıza gelen her şey.**
 
-Turistik broşür dili değil; gerçek deneyimler, gerçek sorunlar.
+Burada "turist broşürü" dili yok; sadece gerçek deneyimler ve karşılaştığımız zorluklar var. Nerede hata yaptık, nerelerde zorlandık ve bir sonraki seferde neleri farklı yapardık — hepsini olduğu gibi anlatıyorum.
 
-Nerede zorlandık, nerede yanıldık ve bir daha gidersek neyi farklı yaparız — hepsi burada.
+Özellikle 1 ve 5 yaşındaki iki çocukla, o devasa ikiz bebek arabasını Kafkasya'nın dar sokaklarında sürerken veya Deutschlandticket ile Münih'ten plansız yollara düşerken öğrendiklerimizi burada bulabilirsiniz.
+
+Gezmek sadece güzel manzaralar görmek değil, o manzaraya ulaşırken çekilen çilenin de hikayesidir.
