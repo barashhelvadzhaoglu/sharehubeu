@@ -1,6 +1,6 @@
 baseURL = "https://share-hub-eu.online/"
 defaultContentLanguage = "tr"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
 paginate = 10
 theme = "blowfish"
