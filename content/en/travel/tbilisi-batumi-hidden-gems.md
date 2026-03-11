@@ -2,7 +2,7 @@
 title: "Hidden Gems in Tbilisi and Batumi | 15 Places You Haven't Seen"
 date: 2024-08-05
 draft: false
-featureimage: "https://images.unsplash.com/photo-1567271638263-5e47e4f29a45?w=1200&q=80"
+featureImage: "https://images.unsplash.com/photo-1567271638263-5e47e4f29a45?w=1200&q=80"
 description: "Hidden places, local experiences and practical tips in Tbilisi and Batumi that don't appear in most guides. Sulfur baths, Chugureti neighborhood, Kazbegi day trip, Ananuri Castle and more."
 tags: ["tbilisi", "batumi", "georgia", "hidden gems", "travel guide", "visa-free", "tbilisi secret spots", "batumi hidden places", "georgia off the beaten path", "tbilisi local life", "georgia authentic", "chugureti", "gabriadze clock tower", "sulfur baths", "ananuri castle", "kazbegi", "georgia nature", "tbilisi neighborhood", "georgia 2024", "georgia travel tips"]
 categories: ["seyahat"]

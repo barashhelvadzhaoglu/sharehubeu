@@ -2,7 +2,7 @@
 title: "Greece Travel Guide | Athens, Islands and Practical Tips (2024)"
 date: 2024-07-01
 draft: false
-featureimage: "https://images.unsplash.com/photo-1555993539-1732b0258235?w=1200&q=80"
+featureImage: "https://images.unsplash.com/photo-1516483642785-215a7295119c?w=1200&q=80"
 description: "Greece travel guide: Athens Acropolis, Santorini, Mykonos and budget tips. Entry with Schengen visa. Greek cuisine, transportation and accommodation — comprehensive guide."
 tags: ["greece", "athens", "santorini", "travel guide", "schengen", "mediterranean", "greek islands", "athens things to do", "acropolis", "plaka", "monastiraki", "greek islands", "santorini mykonos", "greece budget", "athens transport", "greece accommodation", "greek food", "greece schengen visa", "athens 2024", "aegean islands", "athens 3 day itinerary"]
 categories: ["seyahat"]

@@ -2,7 +2,7 @@
 title: "Geheimtipps in Tiflis und Batumi | 15 Orte, die Sie noch nicht gesehen haben"
 date: 2024-08-05
 draft: false
-featureimage: "https://images.unsplash.com/photo-1567271638263-5e47e4f29a45?w=1200&q=80"
+featureImage: "https://images.unsplash.com/photo-1567271638263-5e47e4f29a45?w=1200&q=80"
 description: "Versteckte Orte, lokale Erfahrungen und praktische Tipps in Tiflis und Batumi, die in den meisten Reiseführern nicht vorkommen. Schwefelbäder, Chugureti-Viertel, Kazbegi-Tagesausflug, Ananuri-Burg und mehr."
 tags: ["tiflis", "batumi", "georgien", "geheimtipps", "reiseführer", "visumfrei", "tiflis geheime orte", "batumi versteckte orte", "georgien abseits der touristenpfade", "tiflis lokales leben", "georgien authentisch", "chugureti", "gabriadze uhrturm", "schwefelbäder", "ananuri burg", "kazbegi", "georgien natur", "tiflis viertel", "georgien 2024", "georgien reisetipps"]
 categories: ["seyahat"]

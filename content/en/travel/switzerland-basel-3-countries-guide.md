@@ -2,7 +2,7 @@
 title: "Switzerland Basel Travel Guide | One City, Three Countries: Switzerland, France, Germany (2024)"
 date: 2024-06-20
 draft: false
-featureimage: "https://images.unsplash.com/photo-1527489377706-5bf97e608852?w=1200&q=80"
+featureImage: "https://images.unsplash.com/photo-1505242844917-539069d31d0d?w=1200&q=80"
 description: "Basel travel guide: Rhine River, Marktplatz, Münster Cathedral and the Three Countries Corner. How to visit Switzerland, France and Germany in one trip? Transportation, budget and practical tips."
 tags: ["basel", "switzerland", "france", "germany", "travel guide", "schengen", "3 countries", "basel things to do", "three countries corner", "alsace", "black forest", "basel rhine river", "marktplatz basel", "basel transportation", "switzerland france germany trip", "basel accommodation", "basel budget", "basel 2024", "europe multi-country trip", "day trip france germany"]
 categories: ["seyahat"]
