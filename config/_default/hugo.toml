@@ -4,6 +4,7 @@ defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
 paginate = 10
 theme = "blowfish"
+buildFuture = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
