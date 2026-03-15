@@ -1,24 +1,33 @@
-name: Scheduled Deploy
+name: Scheduled Daily Deploy
 
 on:
   schedule:
+    # Her gece 23:00 UTC (Türkiye 02:00, Almanya 00:00/01:00)
     - cron: '0 23 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Manuel tetikleme için
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive
           fetch-depth: 0
-      - uses: peaceiris/actions-hugo@v3
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
-      - run: hugo --minify
-      - uses: peaceiris/actions-gh-pages@v4
+
+      - name: Build site
+        run: hugo --minify
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
