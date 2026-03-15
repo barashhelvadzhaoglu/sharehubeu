@@ -1,7 +1,7 @@
 ---
 title: "Füssen Gezi Rehberi | Alplerin Dibinde Ortaçağ Şehri (2025)"
 date: 2025-03-24
-draft: false
+draft: true
 featureImage: "https://images.unsplash.com/photo-1476362555312-ab9e108a0b7e?w=1200&q=80"
 description: "Füssen gezi rehberi: Hohes Schloss, Altstadt, Lech Nehri, Forggensee ve şehrin kendisi. Neuschwanstein'dan önce Füssen'e bakın. Bavyera'nın en güzel küçük şehirlerinden biri. 2025."
 tags: ["füssen", "füssen gezi", "füssen altstadt", "hohes schloss füssen", "füssen münih", "deutschlandticket füssen", "lech nehri", "forggensee", "füssen gezilecek yerler", "bavyera ortaçağ", "füssen 2025", "füssen kale", "allgäu füssen", "füssen romantik", "füssen yürüyüş", "füssen bebek arabası", "bavyera alpler", "füssen ulaşım", "neuschwanstein füssen", "allgäu gezi"]

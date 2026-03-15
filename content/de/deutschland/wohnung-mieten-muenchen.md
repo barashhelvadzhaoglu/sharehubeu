@@ -1,7 +1,7 @@
 ---
 title: "Wohnung Mieten in Deutschland | Die Realität der Wohnungssuche in München (2025)"
 date: 2025-03-17
-draft: false
+draft: true
 featureImage: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80"
 description: "Wie findet man eine Mietwohnung in Deutschland? Schufa, Mietschuldenfreiheitsbescheinigung, WG, Immobilienscout und echte Erfahrungen. Münchner Wohnungssuche für Ausländer — umfassender Leitfaden 2025."
 tags: ["wohnung mieten deutschland", "münchen wohnung", "deutschland wohnungssuche", "schufa", "wohnungssuche", "immobilienscout", "deutschland mietwohnung", "münchen mietwohnung", "deutschland expat miete", "wg deutschland", "mietschuldenfreiheitsbescheinigung", "deutschland mietpreise", "deutschland 2025 miete", "ausländer deutschland miete", "münchen 2025 miete", "münchen wohnung finden", "deutschland umzug", "mietbewerbung deutschland", "deutschland bürokratie miete", "wohnung münchen 2025"]

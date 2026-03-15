@@ -1,7 +1,7 @@
 ---
 title: "Regensburg Reiseführer | UNESCO-Mittelalterstadt 1,5 Stunden von München (2025)"
 date: 2025-03-27
-draft: false
+draft: true
 featureImage: "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?w=1200&q=80"
 description: "Regensburg Reiseführer: Steinerne Brücke, Dom, Altstadt, Donau. UNESCO-Welterbe. 1,5 Stunden von München. Deutschlands am besten erhaltene mittelalterliche Stadt. 2025."
 tags: ["regensburg", "münchen regensburg", "regensburg reise", "regensburg altstadt", "steinerne brücke", "regensburg dom", "donau regensburg", "deutschlandticket regensburg", "regensburg unesco", "regensburg 2025", "bayern mittelalter", "regensburg sehenswürdigkeiten", "regensburg geschichte", "regensburg transport", "regensburg altstadt", "danube regensburg", "regensburg kinderwagen", "bayern stadtreise", "münchen tagesausflug regensburg", "historische wurstküche"]

@@ -1,7 +1,7 @@
 ---
 title: "Augsburg Travel Guide | Roman City 35 Minutes from Munich (2025)"
 date: 2025-03-22
-draft: false
+draft: true
 featureImage: "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?w=1200&q=80"
 description: "Augsburg travel guide: Fuggerei, Rathaus, Goldener Saal, Cathedral and water canals. 35 minutes from Munich. Bavaria's second largest city and world's oldest social housing project. 2025."
 tags: ["augsburg", "munich augsburg", "augsburg things to do", "fuggerei", "augsburg rathaus", "goldener saal", "deutschlandticket augsburg", "munich day trip augsburg", "augsburg history", "augsburg cathedral", "augsburg water canals", "augsburg 2025", "augsburg budget", "bavaria city trip", "augsburg roman", "augsburg altstadt", "bavaria history", "augsburg transport", "augsburg mosaic", "augsburg family trip"]

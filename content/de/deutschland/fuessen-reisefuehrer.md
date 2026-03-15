@@ -1,7 +1,7 @@
 ---
 title: "Füssen Reiseführer | Alpines Mittelalterliches Städtchen Jenseits von Neuschwanstein (2025)"
 date: 2025-03-24
-draft: false
+draft: true
 featureImage: "https://images.unsplash.com/photo-1476362555312-ab9e108a0b7e?w=1200&q=80"
 description: "Füssen Reiseführer: Hohes Schloss, Altstadt, Lech-Canyon und Forggensee. Die Stadt selbst jenseits von Schloss Neuschwanstein. Eine der schönsten Kleinstädte Bayerns. 2025."
 tags: ["füssen", "füssen reise", "füssen altstadt", "hohes schloss füssen", "füssen münchen", "deutschlandticket füssen", "lech fluss", "forggensee", "füssen sehenswürdigkeiten", "bayern mittelalter", "füssen 2025", "füssen schloss", "allgäu füssen", "füssen romantisch", "füssen wandern", "füssen kinderwagen", "bayern alpen", "füssen transport", "neuschwanstein füssen", "allgäu reise"]
