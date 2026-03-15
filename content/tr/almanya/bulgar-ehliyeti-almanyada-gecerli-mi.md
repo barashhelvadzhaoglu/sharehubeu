@@ -2,7 +2,7 @@
 title: "Bulgar Ehliyetiyle Almanya'da Araç Kullanılır mı? | TR→BG Ehliyet Çevirme Gerçeği (2025)"
 date: 2026-03-15
 draft: false
-images: "img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"
+images: ["img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"]
 featureImage: "img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"
 description: "Türk ehliyetini Bulgar ehliyetine çevirmek Almanya'da işe yarıyor mu? KAT merkezleri, TR kodu, AB direktifi ve birebir yaşanmış deneyim. Bulgaristan vatandaşları için net cevap."
 tags: ["bulgar ehliyeti almanya", "türk ehliyeti bulgaristan", "ehliyet çevirme bulgaristan", "KAT sofia", "bulgaristan ehliyet süreci", "ab ehliyeti dönüşüm", "türk bulgar vatandaşlık", "almanya ehliyet çözüm", "führerschein bulgarien", "ehliyet tr kodu", "bulgaristan KAT merkezi", "çifte vatandaşlık ehliyet", "ab direktifi ehliyet", "almanya expat ehliyet", "bulgaristan sofya ehliyet", "türk pasaportu bulgaristan", "almanya 2025 ehliyet", "kestirme yol ehliyet", "bulgar vatandaşı almanya", "eu führerschein türkei"]
