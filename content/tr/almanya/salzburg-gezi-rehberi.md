@@ -1,6 +1,6 @@
 ---
 title: "Salzburg Gezi Rehberi | Münih'ten 1.5 Saatte Mozart'ın Şehri (2025)"
-date: 2025-03-21
+date: 2026-03-21
 draft: false
 featureImage: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1200&q=80"
 description: "Salzburg gezi rehberi: Hohensalzburg Kalesi, Getreidegasse, Mozart'ın evi, Mirabell Bahçesi. Münih'ten 1.5 saatte Avusturya. Deutschlandticket ile sınıra kadar ücretsiz. 2025."

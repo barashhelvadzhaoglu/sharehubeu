@@ -1,7 +1,7 @@
 ---
 translationKey: "post-schengen"
 title: "Schengen-Visum beantragen (2025) | Kozmos, Termine und echte Erfahrungen"
-date: 2025-01-10
+date: 2026-01-10
 draft: false
 featureImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80"
 description: "Wie bekommt man ein Schengen-Visum? Griechenland-Visum über Kozmos, Taktiken zur Terminsuche, VIP-Antrag und Antrag als Angehöriger eines EU-Bürgers. 5 erfolgreiche Anträge zwischen 2021–2025."

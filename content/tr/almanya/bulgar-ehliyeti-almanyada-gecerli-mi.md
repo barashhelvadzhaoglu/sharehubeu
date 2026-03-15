@@ -1,6 +1,6 @@
 ---
 title: "Bulgar Ehliyetiyle Almanya'da Araç Kullanılır mı? | TR→BG Ehliyet Çevirme Gerçeği (2025)"
-date: 2025-03-15
+date: 2026-03-15
 draft: false
 featureImage: "https://images.unsplash.com/photo-1594051664297-665ebef32945?w=1200&q=80"
 description: "Türk ehliyetini Bulgar ehliyetine çevirmek Almanya'da işe yarıyor mu? KAT merkezleri, TR kodu, AB direktifi ve birebir yaşanmış deneyim. Bulgaristan vatandaşları için net cevap."

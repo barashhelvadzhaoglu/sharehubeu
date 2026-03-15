@@ -1,6 +1,6 @@
 ---
 title: "Neuschwanstein Castle Guide | Disney's Inspiration | Practical Tips (2025)"
-date: 2025-03-25
+date: 2026-03-25
 draft: false
 featureImage: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200&q=80"
 description: "Neuschwanstein Castle: how to get there, how to buy tickets, Marienbrücke view and practical tips. Bavaria's and possibly Germany's most iconic structure. Tips to avoid crowds. 2025."

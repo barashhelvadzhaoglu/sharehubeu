@@ -1,6 +1,6 @@
 ---
 title: "Augsburg Reiseführer | Römerstadt 35 Minuten von München (2025)"
-date: 2025-03-22
+date: 2026-03-22
 draft: false
 featureImage: "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?w=1200&q=80"
 description: "Augsburg Reiseführer: Fuggerei, Rathaus, Goldener Saal, Dom und Wasserkanäle. 35 Minuten von München. Bayerns zweitgrößte Stadt und ältestes Sozialprojekt der Welt. 2025."

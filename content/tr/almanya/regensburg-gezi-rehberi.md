@@ -1,6 +1,6 @@
 ---
 title: "Regensburg Gezi Rehberi | UNESCO Şehri | Münih'ten 1.5 Saatte (2025)"
-date: 2025-03-27
+date: 2026-03-27
 draft: false
 featureImage: "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?w=1200&q=80"
 description: "Regensburg gezi rehberi: Steinerne Brücke, Dom, Altstadt, Tuna Nehri. UNESCO Dünya Mirası. Münih'ten 1.5 saatte. Almanya'nın en iyi korunmuş ortaçağ şehri. 2025."

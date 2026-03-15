@@ -1,7 +1,7 @@
 ---
 translationKey: "post-schengen"
 title: "How to Get a Schengen Visa (2025) | Kozmos, Appointments and Real Experiences"
-date: 2025-01-10
+date: 2026-01-10
 draft: false
 featureImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80"
 description: "How to get a Schengen visa? Greece visa via Kozmos, appointment-finding tactics, VIP application and application as a relative of an EU citizen. 5 successful applications between 2021–2025."

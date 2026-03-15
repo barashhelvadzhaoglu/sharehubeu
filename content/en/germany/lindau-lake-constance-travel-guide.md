@@ -1,6 +1,6 @@
 ---
 title: "Lindau Travel Guide | Island City on Lake Constance | 2 Hours from Munich (2025)"
-date: 2025-03-23
+date: 2026-03-23
 draft: false
 featureImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80"
 description: "Lindau travel guide: Lake Constance island, harbor lion, Mangturm, historic old town. 2 hours from Munich. Bordering Switzerland and Austria. Deutschlandticket to Bavaria's most beautiful lake."

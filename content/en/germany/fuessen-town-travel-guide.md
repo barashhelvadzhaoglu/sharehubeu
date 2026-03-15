@@ -1,6 +1,6 @@
 ---
 title: "Füssen Travel Guide | Alpine Medieval Town Beyond Neuschwanstein (2025)"
-date: 2025-03-24
+date: 2026-03-24
 draft: false
 featureImage: "https://images.unsplash.com/photo-1476362555312-ab9e108a0b7e?w=1200&q=80"
 description: "Füssen travel guide: Hohes Schloss, Altstadt, Lech River canyon and Forggensee. The town itself beyond Neuschwanstein Castle. One of Bavaria's most beautiful small cities. 2025."

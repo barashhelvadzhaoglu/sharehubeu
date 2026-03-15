@@ -1,6 +1,6 @@
 ---
 title: "Kann Man mit einem Bulgarischen Führerschein in Deutschland Fahren? | Türkisch→Bulgarisch Umschreibung (2025)"
-date: 2025-03-15
+date: 2026-03-15
 draft: false
 featureImage: "https://images.unsplash.com/photo-1594051664297-665ebef32945?w=1200&q=80"
 description: "Funktioniert die Umschreibung eines türkischen Führerscheins in einen bulgarischen für Deutschland? KAT-Zentren, TR-Code, EU-Richtlinie und persönlicher Erfahrungsbericht. Klare Antwort für bulgarische Staatsbürger."

@@ -1,7 +1,7 @@
 
 ---
 title: "Regensburg Travel Guide | UNESCO Medieval City 1.5 Hours from Munich (2025)"
-date: 2025-03-27
+date: 2026-03-27
 draft: false
 featureImage: "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?w=1200&q=80"
 description: "Regensburg travel guide: Steinerne Brücke, Cathedral, Altstadt, Danube River. UNESCO World Heritage. 1.5 hours from Munich. Germany's best-preserved medieval city. 2025."

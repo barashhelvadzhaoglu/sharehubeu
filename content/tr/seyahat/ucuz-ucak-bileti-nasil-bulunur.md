@@ -1,7 +1,7 @@
 ---
 translationKey: "post-ucak-bileti"
 title: "Ucuz Uçak Bileti Nasıl Bulunur? | Pegasus, Google Flights ve Gerçek Taktikler"
-date: 2025-02-01
+date: 2026-02-01
 draft: false
 featureImage: "https://images.unsplash.com/photo-1464037866556-6812c9d1c72e?w=1200&q=80"
 description: "Ucuz uçak bileti bulmanın gerçek yöntemleri: Pegasus kampanya saatleri, Google Flights fiyat alarmı, takvim açılış günleri ve esnek rota planlaması. Birebir yaşanmış deneyimler."

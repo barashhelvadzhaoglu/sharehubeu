@@ -1,6 +1,6 @@
 ---
 title: "Salzburg Travel Guide | Mozart's City 1.5 Hours from Munich (2025)"
-date: 2025-03-21
+date: 2026-03-21
 draft: false
 featureImage: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1200&q=80"
 description: "Salzburg travel guide: Hohensalzburg Fortress, Getreidegasse, Mozart's birthplace, Mirabell Gardens. 1.5 hours from Munich. Deutschlandticket to the border free. 2025."

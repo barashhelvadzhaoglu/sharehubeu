@@ -1,6 +1,6 @@
 ---
 title: "Augsburg Gezi Rehberi | Münih'ten 35 Dakikada Roma'dan Kalma Şehir (2025)"
-date: 2025-03-22
+date: 2026-03-22
 draft: false
 featureImage: "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?w=1200&q=80"
 description: "Augsburg gezi rehberi: Fuggerei, Rathaus, Goldener Saal, Dom ve su kanalları. Münih'ten 35 dakikada. Bavyera'nın ikinci büyük şehri ve dünyanın en eski sosyal konut projesi. 2025."

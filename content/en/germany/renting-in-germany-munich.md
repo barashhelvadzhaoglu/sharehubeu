@@ -1,6 +1,6 @@
 ---
 title: "Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2025)"
-date: 2025-03-17
+date: 2026-03-17
 draft: false
 featureImage: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80"
 description: "How to find a rental apartment in Germany? Schufa, Mietschuldenfreiheitsbescheinigung, WG, Immobilienscout and real experience. Munich apartment search for foreigners — comprehensive guide 2025."

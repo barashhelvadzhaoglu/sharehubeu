@@ -1,6 +1,6 @@
 ---
 title: "Ingolstadt Gezi Rehberi | Münih'ten 1 Saatte Tuna Kıyısı (2025)"
-date: 2025-03-26
+date: 2026-03-26
 draft: false
 featureImage: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80"
 description: "Ingolstadt gezi rehberi: Altstadt, Neues Schloss, Tuna Nehri kıyısı, Liebfrauenmünster. Audi şehrinin tarihi yüzü. Münih'ten 1 saatte, Deutschlandticket ile. 2025."

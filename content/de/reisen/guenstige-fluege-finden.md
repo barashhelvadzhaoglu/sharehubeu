@@ -1,7 +1,7 @@
 ---
 translationKey: "post-ucak-bileti"
 title: "Günstige Flüge Finden | Pegasus, Google Flights und echte Taktiken"
-date: 2025-02-01
+date: 2026-02-01
 draft: false
 featureImage: "https://images.unsplash.com/photo-1464037866556-6812c9d1c72e?w=1200&q=80"
 description: "Echte Methoden zum Finden günstiger Flüge: Pegasus Kampagnenzeiten, Google Flights Preisalarm, Saisonstarttermine und flexible Reiseroutenplanung. Persönliche Erfahrungen aus erster Hand."

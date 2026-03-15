@@ -1,6 +1,6 @@
 ---
 title: "Führerschein-Umschreibung in Deutschland | Die Wahrheit über türkische & bulgarische Lizenzen"
-date: 2025-03-10
+date: 2026-03-10
 draft: false
 featureImage: "https://images.unsplash.com/photo-1594051664297-665ebef32945?w=1200&q=80"
 description: "Wie lange ist der türkische Führerschein in Deutschland gültig? Funktioniert der Umweg über Bulgarien? Aktuelle Informationen 2024-2025 und persönliche Erfahrungen."

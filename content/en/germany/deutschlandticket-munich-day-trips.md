@@ -1,6 +1,6 @@
 ---
 title: "Deutschlandticket Day Trips from Munich | Bavaria with Kids (2025)"
-date: 2025-03-18
+date: 2026-03-18
 draft: false
 featureImage: "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1200&q=80"
 description: "Best day trips from Munich using the Deutschlandticket. Füssen, Garmisch, Salzburg, Starnberg Lake and more. Exploring Bavaria with kids and a stroller for 49 EUR/month."

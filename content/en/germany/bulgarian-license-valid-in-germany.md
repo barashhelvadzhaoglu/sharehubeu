@@ -1,6 +1,6 @@
 ---
 title: "Can You Drive in Germany with a Bulgarian License? | Turkish→Bulgarian Transfer Reality (2025)"
-date: 2025-03-15
+date: 2026-03-15
 draft: false
 featureImage: "https://images.unsplash.com/photo-1594051664297-665ebef32945?w=1200&q=80"
 description: "Does converting a Turkish license to a Bulgarian one work in Germany? KAT centers, TR code, EU directive and first-hand experience. A clear answer for Bulgarian citizens."

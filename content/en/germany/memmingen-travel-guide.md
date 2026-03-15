@@ -1,6 +1,6 @@
 ---
 title: "Memmingen Travel Guide | Medieval City 1.5 Hours from Munich (2025)"
-date: 2025-03-20
+date: 2026-03-20
 draft: false
 featureImage: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=1200&q=80"
 description: "Memmingen travel guide: Marktplatz, city walls, Sieben Dächer and day trip from Munich with Deutschlandticket. One of Bavaria's best-preserved medieval towns. 2025 practical info."

@@ -1,6 +1,6 @@
 ---
 title: "Ingolstadt Travel Guide | Danube City 1 Hour from Munich (2025)"
-date: 2025-03-26
+date: 2026-03-26
 draft: false
 featureImage: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80"
 description: "Ingolstadt travel guide: Altstadt, Neues Schloss, Danube riverside, Liebfrauenmünster. The historic face of Audi's city. 1 hour from Munich with Deutschlandticket. 2025."

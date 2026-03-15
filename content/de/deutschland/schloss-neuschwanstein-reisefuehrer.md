@@ -1,6 +1,6 @@
 ---
 title: "Schloss Neuschwanstein Reiseführer | Disneys Vorlage | Praktische Tipps (2025)"
-date: 2025-03-25
+date: 2026-03-25
 draft: false
 featureImage: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200&q=80"
 description: "Schloss Neuschwanstein: Anreise, Tickets kaufen, Marienbrücke-Aussicht und praktische Tipps. Bayerns und vielleicht Deutschlands ikonischstes Bauwerk. Tipps um Menschenmassen zu vermeiden. 2025."

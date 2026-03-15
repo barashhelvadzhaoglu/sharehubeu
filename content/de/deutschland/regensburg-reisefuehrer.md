@@ -1,6 +1,6 @@
 ---
 title: "Regensburg Reiseführer | UNESCO-Mittelalterstadt 1,5 Stunden von München (2025)"
-date: 2025-03-27
+date: 2026-03-27
 draft: false
 featureImage: "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?w=1200&q=80"
 description: "Regensburg Reiseführer: Steinerne Brücke, Dom, Altstadt, Donau. UNESCO-Welterbe. 1,5 Stunden von München. Deutschlands am besten erhaltene mittelalterliche Stadt. 2025."

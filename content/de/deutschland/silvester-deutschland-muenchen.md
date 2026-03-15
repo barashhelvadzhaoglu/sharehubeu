@@ -1,6 +1,6 @@
 ---
 title: "Weihnachten und Silvester in Deutschland | Münchner Weihnachtsmärkte (2025)"
-date: 2025-03-19
+date: 2026-03-19
 draft: false
 featureImage: "https://images.unsplash.com/photo-1543498946-8f2090dc573e?w=1200&q=80"
 description: "Wie wird Weihnachten und Silvester in Deutschland gefeiert? Münchner Weihnachtsmärkte, Christkindlmarkt, Silvester-Traditionen und Tipps für Familienfeiern. Deutsche Winterkultur aus Ausländer-Perspektive."

@@ -1,6 +1,6 @@
 ---
 title: "Füssen Reiseführer | Alpines Mittelalterliches Städtchen Jenseits von Neuschwanstein (2025)"
-date: 2025-03-24
+date: 2026-03-24
 draft: false
 featureImage: "https://images.unsplash.com/photo-1476362555312-ab9e108a0b7e?w=1200&q=80"
 description: "Füssen Reiseführer: Hohes Schloss, Altstadt, Lech-Canyon und Forggensee. Die Stadt selbst jenseits von Schloss Neuschwanstein. Eine der schönsten Kleinstädte Bayerns. 2025."

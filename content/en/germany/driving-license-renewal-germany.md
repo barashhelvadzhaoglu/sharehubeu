@@ -1,6 +1,6 @@
 ---
 title: "Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses"
-date: 2025-03-10
+date: 2026-03-10
 draft: false
 featureImage: "https://images.unsplash.com/photo-1594051664297-665ebef32945?w=1200&q=80"
 description: "How long is a Turkish driving license valid in Germany? Does the detour via Bulgaria work? Updated information for 2024-2025 and first-hand experiences."

@@ -1,6 +1,6 @@
 ---
 title: "Salzburg Reiseführer | Mozarts Stadt 1,5 Stunden von München (2025)"
-date: 2025-03-21
+date: 2026-03-21
 draft: false
 featureImage: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1200&q=80"
 description: "Salzburg Reiseführer: Hohensalzburg, Getreidegasse, Mozarts Geburtshaus, Mirabellgarten. 1,5 Stunden von München. Deutschlandticket bis zur Grenze kostenlos. 2025."
