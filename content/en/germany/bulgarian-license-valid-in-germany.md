@@ -1,7 +1,7 @@
 ---
 title: "Can You Drive in Germany with a Bulgarian License? | Turkish→Bulgarian Transfer Reality (2025)"
 date: 2025-03-15
-draft: false
+draft: true
 featureImage: "https://images.unsplash.com/photo-1594051664297-665ebef32945?w=1200&q=80"
 description: "Does converting a Turkish license to a Bulgarian one work in Germany? KAT centers, TR code, EU directive and first-hand experience. A clear answer for Bulgarian citizens."
 tags: ["bulgarian license germany", "turkish license bulgaria", "driving license transfer bulgaria", "KAT sofia", "bulgaria license process", "eu driving license conversion", "turkish bulgarian citizenship", "germany driving license solution", "führerschein bulgarien", "license TR code", "bulgaria KAT center", "dual citizenship license", "eu directive driving license", "germany expat license", "bulgaria sofia license", "turkish passport bulgaria", "germany 2025 license", "shortcut driving license", "bulgarian citizen germany", "eu führerschein türkei"]
