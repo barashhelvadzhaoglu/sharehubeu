@@ -1,7 +1,7 @@
 ---
 title: "Deutschlandticket Tagesausflüge von München | Bayern mit Kindern (2025)"
 date: 2025-03-18
-draft: true
+draft: false
 featureImage: "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1200&q=80"
 description: "Die besten Tagesausflüge von München mit dem Deutschlandticket. Füssen, Garmisch, Salzburg, Starnberger See und mehr. Bayern mit Kindern und Kinderwagen für 49 EUR/Monat erkunden."
 tags: ["deutschlandticket", "münchen tagesausflug", "bayern tagesausflug", "füssen münchen", "garmisch münchen", "starnberger see", "deutschland günstig reisen", "49 euro ticket", "münchen ausflug", "bayern mit kindern", "kinderwagen bayern", "salzburg münchen", "deutschlandticket routen", "münchen umgebung", "deutschland zugreise", "bayern 2025", "münchen tagesreise", "neuschwanstein münchen", "chiemsee münchen", "deutschland familienausflug"]

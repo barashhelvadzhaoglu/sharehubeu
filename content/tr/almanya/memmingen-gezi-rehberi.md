@@ -1,7 +1,7 @@
 ---
 title: "Memmingen Gezi Rehberi | Münih'ten 1.5 Saatte Ortaçağ Şehri (2025)"
 date: 2025-03-20
-draft: true
+draft: false
 featureImage: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=1200&q=80"
 description: "Memmingen gezi rehberi: Marktplatz, surlar, ahşap çarçılar ve Deutschlandticket ile Münih'ten günübirlik. Bavyera'nın en iyi korunmuş ortaçağ şehirlerinden biri. 2025 pratik bilgiler."
 tags: ["memmingen", "münih günübirlik", "bavyera ortaçağ", "deutschlandticket memmingen", "memmingen gezilecek yerler", "memmingen marktplatz", "allgäu gezi", "bavyera gezi", "memmingen surları", "almanya ortaçağ şehir", "memmingen 2025", "allgäu bavyera", "münih çevresi gezi", "bavyera günübirlik", "memmingen kilise", "almanya tarihi şehir", "westallgäu", "memmingen ulaşım", "bavyera aile gezisi", "memmingen steuerhaus"]

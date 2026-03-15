@@ -2,7 +2,7 @@
 ---
 title: "Regensburg Travel Guide | UNESCO Medieval City 1.5 Hours from Munich (2025)"
 date: 2025-03-27
-draft: true
+draft: false
 featureImage: "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?w=1200&q=80"
 description: "Regensburg travel guide: Steinerne Brücke, Cathedral, Altstadt, Danube River. UNESCO World Heritage. 1.5 hours from Munich. Germany's best-preserved medieval city. 2025."
 tags: ["regensburg", "munich regensburg", "regensburg travel", "regensburg altstadt", "steinerne brücke", "regensburg cathedral", "danube river regensburg", "deutschlandticket regensburg", "regensburg unesco", "regensburg 2025", "bavaria medieval", "regensburg things to do", "regensburg history", "regensburg transport", "regensburg old town", "danube regensburg", "regensburg stroller", "bavaria city trip", "munich day trip regensburg", "historische wurstküche"]

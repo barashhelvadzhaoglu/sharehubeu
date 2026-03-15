@@ -1,7 +1,7 @@
 ---
 title: "Neuschwanstein Kalesi Gezi Rehberi | Disney'in İlham Kaynağı (2025)"
 date: 2025-03-25
-draft: true
+draft: false
 featureImage: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200&q=80"
 description: "Neuschwanstein Kalesi: Nasıl gidilir, bilet nasıl alınır, Marienbrücke manzarası ve pratik ipuçları. Bavyera'nın ve belki Almanya'nın en ikonik yapısı. Kalabalıktan kaçmak için ipuçları. 2025."
 tags: ["neuschwanstein", "neuschwanstein kalesi", "füssen neuschwanstein", "neuschwanstein bilet", "neuschwanstein gezi", "marienbrücke", "neuschwanstein manzara", "bavyera kalesi", "disney neuschwanstein", "neuschwanstein 2025", "neuschwanstein ulaşım", "neuschwanstein tur", "bavyera turistik", "neuschwanstein kalabalık", "neuschwanstein sabah", "hohenschwangau", "bavyera saray", "neuschwanstein bebek arabası", "münih neuschwanstein", "deutschlandticket neuschwanstein"]
