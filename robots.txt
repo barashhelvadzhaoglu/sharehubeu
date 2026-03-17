@@ -1,18 +1,13 @@
 User-agent: *
 Allow: /
 
-# Ana Sitemap Index (Eğer varsa)
-Sitemap: https://memorlex.com/sitemap.xml
-
-# Dile Özel Sitemapler (Eğer ana sitemap hepsini kapsamıyorsa)
-Sitemap: https://memorlex.com/en/sitemap.xml
-Sitemap: https://memorlex.com/tr/sitemap.xml
-Sitemap: https://memorlex.com/de/sitemap.xml
-Sitemap: https://memorlex.com/uk/sitemap.xml
-Sitemap: https://memorlex.com/es/sitemap.xml
-
-# Güvenlik: Kritik olabilecek dizinleri taramaya kapatın
-Disallow: /api/
+# Next.js sistem dosyalarını taramaya kapatın
 Disallow: /_next/
-Disallow: /terraform/
-Disallow: *.log
+Disallow: /api/
+
+# Sitemap adresiniz (Next.js genellikle /sitemap.xml üretir)
+Sitemap: https://www.memorlex.com/sitemap.xml
+
+# AdSense Botu
+User-agent: Mediapartners-Google
+Allow: /
