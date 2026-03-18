@@ -3,7 +3,7 @@ translationKey: "post-tiflis-sakli"
 title: "Tiflis ve Batum'da Görmedikleriniz | Saklı Kalan 15 Yer ve Deneyim"
 date: 2024-08-05
 draft: false
-featureImage: "https://images.pexels.com/photos/10321394/pexels-photo-10321394.jpeg?auto=compress&cs=tinysrgb&w=1200"
+featureImage: "/img/travel/tiflis-batum-gormedikleriniz-sakli-yerler.webp"
 description: "Tiflis ve Batum'da çoğu rehberde yer almayan saklı yerler, yerel deneyimler ve pratik tüyolar. Sülfür hamamları, Chugureti mahallesi, Kazbegi günübirliği, Ananuri Kalesi ve daha fazlası."
 tags: ["tiflis", "batum", "gürcistan", "saklı yerler", "gezi rehberi", "vizesiz", "kimlikle", "tiflis gizli mekanlar", "batum saklı noktalar", "gürcistan az bilinen", "tiflis yerel hayat", "gürcistan otantik", "chugureti", "gabriadze saat kulesi", "sülfür hamamı", "ananuri kalesi", "kazbegi", "gürcistan doğa", "tiflis mahalle", "gürcistan 2024"]
 categories: ["seyahat"]
