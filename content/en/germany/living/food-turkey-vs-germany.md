@@ -10,7 +10,7 @@ tags:
   - "Food"
   - "Munich"
   - "Biergarten"
-featureImage: "/img/living/food.jpg"
+featureImage: "/img/living/food.webp"
 ---
 
 # Food & Eating Out: Turkey vs Germany

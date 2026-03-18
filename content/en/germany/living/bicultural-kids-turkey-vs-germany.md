@@ -10,7 +10,7 @@ tags:
   - "Bicultural"
   - "Expat Family"
   - "Munich"
-featureImage: "/img/living/bicultural.jpg"
+featureImage: "/img/living/bicultural.webp"
 ---
 
 # Growing Up Between Two Cultures: Turkey vs Germany

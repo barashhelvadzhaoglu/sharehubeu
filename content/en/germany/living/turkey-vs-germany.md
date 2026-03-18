@@ -10,7 +10,7 @@ tags:
   - "Expat Life"
   - "Comparison"
   - "Munich"
-featureImage: "/img/living/turkey-vs-germany.jpg"
+featureImage: "/img/living/turkey-vs-germany.webp"
 ---
 
 # Turkey vs Germany: An Honest Comparison After Making the Move

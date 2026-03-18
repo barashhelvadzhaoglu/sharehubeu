@@ -2,7 +2,7 @@
 title: "Almanya'da Yılbaşı Kutlamaları | Silvester, Havai Fişekler ve Münih'te Yeni Yıl (2025)"
 date: 2026-03-19
 draft: false
-featureImage: "/img/travel/almanyada-yilbasi-kutlamalari.jpg"
+featureImage: "/img/travel/almanyada-yilbasi-kutlamalari.webp"
 description: "Almanya'da yılbaşı nasıl kutlanır? Silvester geleneği, havai fişek özgürlüğü, Münih'te yılbaşı mekanları ve çocukla yeni yıl. Türk expat gözüyle ilk Silvester deneyimi."
 tags: ["almanya yılbaşı", "silvester almanya", "münih yılbaşı", "almanya yeni yıl", "silvester münchen", "almanya havai fişek", "almanya yılbaşı kutlama", "münchen silvester", "almanya expat yılbaşı", "silvester gelenekleri", "almanya 31 aralık", "yeni yıl almanya", "bleigiessen", "raclette silvester", "almanya yılbaşı 2025", "münih yılbaşı mekanları", "almanya kültür", "expat almanya deneyim", "silvester feuerwerk", "çocukla yılbaşı almanya"]
 categories: ["almanya"]

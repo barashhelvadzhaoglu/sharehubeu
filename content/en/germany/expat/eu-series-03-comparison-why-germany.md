@@ -10,7 +10,7 @@ tags:
   - "Luxembourg"
   - "Expat Life"
   - "Moving Abroad"
-featureImage: "/img/living/comparison.jpg"
+featureImage: "/img/living/comparison.webp"
 ---
 
 # Netherlands vs Luxembourg vs Germany: Why I Chose Germany

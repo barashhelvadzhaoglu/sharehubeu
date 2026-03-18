@@ -10,7 +10,7 @@ tags:
   - "Shopping"
   - "Daily Life"
   - "Munich"
-featureImage: "/img/living/shopping.jpg"
+featureImage: "/img/living/shopping.webp"
 ---
 
 # Shopping & Daily Errands: Turkey vs Germany

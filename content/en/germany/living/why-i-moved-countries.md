@@ -10,7 +10,7 @@ tags:
   - "Turkey"
   - "Germany"
   - "Family"
-featureImage: "/img/living/why-i-moved.jpg"
+featureImage: "/img/living/why-i-moved.webp"
 ---
 
 # Why I Left Turkey: The Decision That Changed Everything

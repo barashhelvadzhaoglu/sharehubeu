@@ -2,7 +2,7 @@
 title: "Füssen Travel Guide | Alpine Medieval Town Beyond Neuschwanstein (2025)"
 date: 2026-03-24
 draft: false
-featureImage: "/img/travel/fuessen-town-travel-guide.jpg"
+featureImage: "/img/travel/fuessen-town-travel-guide.webp"
 description: "Füssen travel guide: Hohes Schloss, Altstadt, Lech River canyon and Forggensee. The town itself beyond Neuschwanstein Castle. One of Bavaria's most beautiful small cities. 2025."
 tags: ["füssen", "füssen travel", "füssen altstadt", "hohes schloss füssen", "füssen munich", "deutschlandticket füssen", "lech river", "forggensee", "füssen things to do", "bavaria medieval", "füssen 2025", "füssen castle", "allgäu füssen", "füssen romantic", "füssen hiking", "füssen stroller", "bavaria alps", "füssen transport", "neuschwanstein füssen", "allgäu travel"]
 categories: ["almanya"]

@@ -10,7 +10,7 @@ tags:
   - "Climate"
   - "Munich"
   - "Bavaria"
-featureImage: "/img/living/climate.jpg"
+featureImage: "/img/living/climate.webp"
 ---
 
 # Climate & Seasons: Turkey vs Germany
