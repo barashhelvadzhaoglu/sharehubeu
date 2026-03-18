@@ -1,0 +1,10 @@
+# Hugo generated
+public/
+resources/_gen/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
