@@ -3,7 +3,7 @@ title: "Kann Man mit einem Bulgarischen Führerschein in Deutschland Fahren? | T
 date: 2026-03-15
 draft: false
 images: ["img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"]
-featureImage: "img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"
+featureimage: "img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"
 description: "Funktioniert die Umschreibung eines türkischen Führerscheins in einen bulgarischen für Deutschland? KAT-Zentren, TR-Code, EU-Richtlinie und persönlicher Erfahrungsbericht. Klare Antwort für bulgarische Staatsbürger."
 tags: ["bulgarischer führerschein deutschland", "türkischer führerschein bulgarien", "führerschein umschreibung bulgarien", "KAT sofia", "bulgarien führerschein prozess", "eu führerschein umwandlung", "türkisch bulgarische staatsbürgerschaft", "deutschland führerschein lösung", "führerschein bulgarien", "führerschein TR code", "bulgarien KAT zentrum", "doppelte staatsbürgerschaft führerschein", "eu richtlinie führerschein", "deutschland expat führerschein", "bulgarien sofia führerschein", "türkischer pass bulgarien", "deutschland 2025 führerschein", "abkürzung führerschein", "bulgarischer bürger deutschland", "eu führerschein türkei"]
 categories: ["almanya"]

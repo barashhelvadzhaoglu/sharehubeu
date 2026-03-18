@@ -3,7 +3,7 @@ translationKey: "post-tiflis-batum"
 title: "Georgien Reiseführer: Tiflis & Batumi | 5-tägige Echtzeiterfahrung (2024)"
 date: 2024-09-15
 draft: false
-featureImage: "/img/travel/georgien-tiflis-batumi-reisefuehrer.webp"
+featureimage: "/img/travel/georgien-tiflis-batumi-reisefuehrer.webp"
 description: "Georgien Tiflis und Batumi Reise: Transport, Unterkunft, Essen, Zugfahrt, Grenzübergang und Budget. Eine echte 5-tägige Erfahrung."
 tags: ["georgien", "tiflis", "batumi", "reiseführer", "kaukasus", "visumfrei", "sarp grenzübergang", "georgien reise", "tiflis sehenswürdigkeiten", "batumi sehenswürdigkeiten", "georgien budget", "kaukasus reise", "visumfreies reisen", "georgien transport", "tiflis unterkunft", "georgien essen", "georgien währung", "billiges europa reisen", "georgien 2024", "backpacking georgien"]
 categories: ["seyahat"]

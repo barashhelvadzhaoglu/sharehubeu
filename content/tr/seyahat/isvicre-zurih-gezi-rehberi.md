@@ -3,7 +3,7 @@ translationKey: "post-zurih"
 title: "İsviçre Zürih Gezi Rehberi | Gezilecek Yerler, Ulaşım ve Bütçe (2024)"
 date: 2024-06-10
 draft: false
-featureImage: "https://images.unsplash.com/photo-1517330357046-3ab5a5dd42b1?w=1200&q=80"
+featureimage: "https://images.unsplash.com/photo-1517330357046-3ab5a5dd42b1?w=1200&q=80"
 description: "Zürih gezilecek yerler, ulaşım, konaklama ve bütçe rehberi. Grossmünster, Bahnhofstrasse, Zürih Gölü ve Lindt Çikolata Müzesi. İsviçre'nin en pahalı şehrinde nasıl tasarruf edilir?"
 tags: ["zürih", "isviçre", "gezi rehberi", "gezilecek yerler", "avrupa", "schengen", "zürih gezilecek yerler", "zürih ulaşım", "isviçre bütçe", "zürih kartı", "grossmünster", "bahnhofstrasse", "lindt müzesi", "uetliberg", "zürih konaklama", "isviçre yeme içme", "zürih 2024", "isviçre tatil", "avrupa pahalı şehirler", "zürih ucuz gezme"]
 categories: ["seyahat"]

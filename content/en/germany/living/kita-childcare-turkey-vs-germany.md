@@ -10,7 +10,7 @@ tags:
   - "Childcare"
   - "Kita"
   - "Munich"
-featureImage: "/img/living/kita.webp"
+featureimage: "/img/living/kita.webp"
 ---
 
 # Childcare & the Kita System: Turkey vs Germany

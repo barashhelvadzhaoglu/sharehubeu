@@ -2,7 +2,7 @@
 title: "Ingolstadt Travel Guide | Danube City 1 Hour from Munich (2025)"
 date: 2026-03-26
 draft: false
-featureImage: "/img/travel/ingolstadt-travel-guide.webp"
+featureimage: "/img/travel/ingolstadt-travel-guide.webp"
 description: "Ingolstadt travel guide: Altstadt, Neues Schloss, Danube riverside, Liebfrauenmünster. The historic face of Audi's city. 1 hour from Munich with Deutschlandticket. 2025."
 tags: ["ingolstadt", "munich ingolstadt", "ingolstadt travel", "ingolstadt altstadt", "ingolstadt danube", "ingolstadt neues schloss", "deutschlandticket ingolstadt", "audi ingolstadt", "bavaria city", "ingolstadt 2025", "ingolstadt transport", "ingolstadt things to do", "danube river", "ingolstadt history", "ingolstadt liebfrauenmünster", "bavaria travel", "ingolstadt army museum", "ingolstadt budget", "ingolstadt stroller", "frankenstein ingolstadt"]
 categories: ["almanya"]

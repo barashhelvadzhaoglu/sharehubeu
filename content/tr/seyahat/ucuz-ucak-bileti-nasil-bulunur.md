@@ -3,7 +3,7 @@ translationKey: "post-ucak-bileti"
 title: "Ucuz Uçak Bileti Nasıl Bulunur? | Pegasus, Google Flights ve Gerçek Taktikler"
 date: 2026-02-01
 draft: false
-featureImage: "/img/travel/ucuz-ucak-bileti-nasil-bulunur.webp"
+featureimage: "/img/travel/ucuz-ucak-bileti-nasil-bulunur.webp"
 description: "Ucuz uçak bileti bulmanın gerçek yöntemleri: Pegasus kampanya saatleri, Google Flights fiyat alarmı, takvim açılış günleri ve esnek rota planlaması. Birebir yaşanmış deneyimler."
 tags: ["ucuz uçak bileti", "pegasus kampanya", "google flights", "uçak bileti", "seyahat ipuçları", "bilet fiyatları", "ucuz uçuş nasıl bulunur", "uçak bileti alarm", "esnek tarih", "son dakika uçuş", "türk hava yolları indirim", "pegasus promosyon", "uçuş fiyat takibi", "ucuz tatil", "avrupa ucuz uçuş", "düşük maliyetli havayolu", "uçak bileti 2024", "bilet ne zaman alınır", "erken rezervasyon", "uçuş karşılaştırma siteleri"]
 categories: ["seyahat"]

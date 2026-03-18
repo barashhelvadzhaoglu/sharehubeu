@@ -10,7 +10,7 @@ tags:
   - "Family"
   - "Elderly Care"
   - "Expat Life"
-featureImage: "https://images.unsplash.com/photo-1581579186913-45ac24ed53d4?w=1200"
+featureimage: "https://images.unsplash.com/photo-1581579186913-45ac24ed53d4?w=1200"
 ---
 
 # Elderly Care & Family Structure: Turkey vs Germany

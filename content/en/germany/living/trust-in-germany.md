@@ -10,7 +10,7 @@ tags:
   - "German Culture"
   - "Munich"
   - "Society"
-featureImage: "/img/living/trust.webp"
+featureimage: "/img/living/trust.webp"
 ---
 
 # Trust as a Way of Life: What Germany Taught Me About Believing in People

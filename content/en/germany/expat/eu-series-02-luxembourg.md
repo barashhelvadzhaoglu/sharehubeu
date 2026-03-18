@@ -10,7 +10,7 @@ tags:
   - "Europe"
   - "Tax"
   - "Moving Abroad"
-featureImage: "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d9?w=1200"
+featureimage: "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d9?w=1200"
 ---
 
 # Working & Living in Luxembourg: Europe's Best Kept Secret?

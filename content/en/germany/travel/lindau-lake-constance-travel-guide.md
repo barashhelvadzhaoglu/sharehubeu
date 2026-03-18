@@ -2,7 +2,7 @@
 title: "Lindau Travel Guide | Island City on Lake Constance | 2 Hours from Munich (2025)"
 date: 2026-03-23
 draft: false
-featureImage: "/img/travel/lindau-lake-constance-travel-guide.webp"
+featureimage: "/img/travel/lindau-lake-constance-travel-guide.webp"
 description: "Lindau travel guide: Lake Constance island, harbor lion, Mangturm, historic old town. 2 hours from Munich. Bordering Switzerland and Austria. Deutschlandticket to Bavaria's most beautiful lake."
 tags: ["lindau", "lake constance", "lindau bodensee", "munich lindau", "lake constance travel", "lindau island", "deutschlandticket lindau", "lindau things to do", "lindau harbor", "lindau mangturm", "allgäu travel", "bodensee island", "lindau 2025", "bavaria lake", "lindau history", "lindau transport", "bodensee austria switzerland", "lindau old town", "bavaria waterfront", "lindau stroller"]
 categories: ["almanya"]

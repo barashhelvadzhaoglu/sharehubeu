@@ -10,7 +10,7 @@ tags:
   - "Healthcare"
   - "GKV"
   - "Expat Life"
-featureImage: "/img/living/health.webp"
+featureimage: "/img/living/health.webp"
 ---
 
 # Health System: Turkey vs Germany

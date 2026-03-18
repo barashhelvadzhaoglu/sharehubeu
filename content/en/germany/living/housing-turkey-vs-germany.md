@@ -10,7 +10,7 @@ tags:
   - "Housing"
   - "Renting"
   - "Munich"
-featureImage: "/img/living/housing.webp"
+featureimage: "/img/living/housing.webp"
 ---
 
 # Housing & Renting: Turkey vs Germany

@@ -2,7 +2,7 @@
 title: "Almanya'da Kira Bulma Rehberi | Münih'te Daire Arama Gerçeği (2025)"
 date: 2026-03-17
 draft: false
-featureImage: "/img/living/almanyada-kira-bulma-rehberi.webp"
+featureimage: "/img/living/almanyada-kira-bulma-rehberi.webp"
 description: "Almanya'da kira nasıl bulunur? Schufa, Mietschuldenfreiheitsbescheinigung, WG, Immobilienscout ve gerçek deneyim. Münih kiralık daire arama süreci — yabancılar için kapsamlı rehber 2025."
 tags: ["almanya kira", "münih kira", "almanya daire arama", "schufa", "wohnungssuche", "immobilienscout", "almanya kiralık daire", "münih daire", "almanya expat kira", "wg almanya", "mietschuldenfreiheitsbescheinigung", "almanya kira fiyatları", "almanya 2025 kira", "yabancı almanya kira", "türk almanya kira", "münchen wohnung", "almanya taşınma", "kira başvurusu almanya", "almanya bürokrasi kira", "münih 2025 kira"]
 categories: ["almanya"]

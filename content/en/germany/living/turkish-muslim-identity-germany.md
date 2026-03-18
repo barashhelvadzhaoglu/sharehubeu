@@ -10,7 +10,7 @@ tags:
   - "Muslim"
   - "Identity"
   - "Munich"
-featureImage: "/img/living/turkish-identity.webp"
+featureimage: "/img/living/turkish-identity.webp"
 ---
 
 # Being Turkish & Muslim in Germany: What It's Actually Like

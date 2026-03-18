@@ -2,7 +2,7 @@
 title: "Führerschein in Deutschland | Wie Lange Gilt ein Türkischer Führerschein? Kompletter Leitfaden (2025)"
 date: 2026-03-10
 draft: false
-featureImage: "/img/living/fuehrerschein-erneuerung-deutschland.webp"
+featureimage: "/img/living/fuehrerschein-erneuerung-deutschland.webp"
 description: "Wie lange ist ein türkischer Führerschein in Deutschland gültig? Fahrschule, Theorieprüfung, Fahrstunden und echte Kosten. Was nach der Anmeldung zu tun ist. Aktueller Leitfaden 2025."
 tags: ["führerschein deutschland", "türkischer führerschein deutschland", "führerschein", "fahrschule", "führerschein erneuerung deutschland", "anmeldung führerschein", "deutschland fahrerlaubnis", "theorieprüfung", "führerschein kosten deutschland", "expat deutschland", "deutschland bürokratie", "führerschein umschreiben", "deutschland 2025", "münchen führerschein", "eu führerschein", "fahrschule deutschland", "fahrprüfung deutschland", "umzug nach deutschland leitfaden", "türkischer expat deutschland", "deutschland praktische tipps"]
 categories: ["almanya"]

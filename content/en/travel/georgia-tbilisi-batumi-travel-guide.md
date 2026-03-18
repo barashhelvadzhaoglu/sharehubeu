@@ -3,7 +3,7 @@ translationKey: "post-tiflis-batum"
 title: "Georgia Travel Guide: Tbilisi & Batumi | 5-Day Real Experience (2024)"
 date: 2024-09-15
 draft: false
-featureImage: "/img/travel/georgia-tbilisi-batumi-travel-guide.webp"
+featureimage: "/img/travel/georgia-tbilisi-batumi-travel-guide.webp"
 description: "Georgia Tbilisi and Batumi trip: transportation, accommodation, food, train journey, border crossing and budget. A real 5-day experience."
 tags: ["georgia", "tbilisi", "batumi", "travel guide", "caucasus", "visa-free", "sarp border crossing", "georgia travel", "tbilisi things to do", "batumi things to do", "georgia budget", "caucasus trip", "visa-free travel", "georgia transportation", "tbilisi accommodation", "georgia food", "georgia currency", "cheap europe travel", "georgia 2024", "backpacking georgia"]
 categories: ["seyahat"]

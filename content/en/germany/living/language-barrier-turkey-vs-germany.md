@@ -10,7 +10,7 @@ tags:
   - "German Language"
   - "Expat Life"
   - "Munich"
-featureImage: "/img/living/language.webp"
+featureimage: "/img/living/language.webp"
 ---
 
 # The Language Barrier: Turkey vs Germany

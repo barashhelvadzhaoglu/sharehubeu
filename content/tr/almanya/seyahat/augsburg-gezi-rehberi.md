@@ -2,7 +2,7 @@
 title: "Augsburg Gezi Rehberi | Münih'ten 35 Dakikada Roma'dan Kalma Şehir (2025)"
 date: 2026-03-22
 draft: false
-featureImage: "/img/travel/augsburg-gezi-rehberi.webp"
+featureimage: "/img/travel/augsburg-gezi-rehberi.webp"
 description: "Augsburg gezi rehberi: Fuggerei, Rathaus, Goldener Saal, Dom ve su kanalları. Münih'ten 35 dakikada. Bavyera'nın ikinci büyük şehri ve dünyanın en eski sosyal konut projesi. 2025."
 tags: ["augsburg", "münih augsburg", "augsburg gezilecek yerler", "fuggerei", "augsburg rathaus", "goldener saal", "deutschlandticket augsburg", "münih günübirlik augsburg", "augsburg tarihi", "augsburg dom", "augsburg su kanalları", "augsburg 2025", "augsburg bütçe", "bavyera şehir gezisi", "augsburg roma", "augsburg altstadt", "bavyera tarihi", "augsburg ulaşım", "augsburg mozaik", "augsburg aile gezisi"]
 categories: ["almanya"]

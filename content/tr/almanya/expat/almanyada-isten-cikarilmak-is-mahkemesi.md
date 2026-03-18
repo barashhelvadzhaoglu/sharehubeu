@@ -4,7 +4,7 @@ date: 2026-04-19T08:00:00+01:00
 draft: false
 description: "Almanya'da işten çıkarılınca ne olur? İş mahkemesi, tazminat, Jobcenter ve avukatlık sigortası — bizzat yaşadığım sürecin tamamı."
 translationKey: "fired-in-germany-labor-court"
-featureImage: "/img/living/almanyada-isten-cikarilmak-is-mahkemesi.webp"
+featureimage: "/img/living/almanyada-isten-cikarilmak-is-mahkemesi.webp"
 tags:
   - "Almanya"
   - "İş Hukuku"

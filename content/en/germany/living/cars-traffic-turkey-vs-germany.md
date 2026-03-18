@@ -10,7 +10,7 @@ tags:
   - "Traffic"
   - "Autobahn"
   - "Munich"
-featureImage: "https://images.unsplash.com/photo-1474487548417-781cb6d646b3?w=1200"
+featureimage: "https://images.unsplash.com/photo-1474487548417-781cb6d646b3?w=1200"
 ---
 
 # Cars & Traffic Culture: Turkey vs Germany

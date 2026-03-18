@@ -1,5 +1,5 @@
 ---
-featureImage: "img/sharehubeu-hero.png"
+featureimage: "img/sharehubeu-hero.png"
 title: "Reiseführer"
 description: "Keine Tourismusbroschüren-Sprache; echte Erfahrungen und echte Probleme."
 translationKey: "travel-list"

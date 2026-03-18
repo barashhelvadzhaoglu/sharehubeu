@@ -10,7 +10,7 @@ tags:
   - "Europe"
   - "30 Percent Ruling"
   - "Moving Abroad"
-featureImage: "/img/living/netherlands.webp"
+featureimage: "/img/living/netherlands.webp"
 ---
 
 # Working & Living in the Netherlands: What I Learned Before Moving
