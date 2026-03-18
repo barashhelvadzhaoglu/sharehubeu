@@ -2,7 +2,7 @@
 title: "Regensburg Gezi Rehberi | UNESCO Şehri | Münih'ten 1.5 Saatte (2025)"
 date: 2026-03-27
 draft: false
-featureImage: "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?w=1200&q=80"
+featureImage: "/img/travel/regensburg-gezi-rehberi.jpg"
 description: "Regensburg gezi rehberi: Steinerne Brücke, Dom, Altstadt, Tuna Nehri. UNESCO Dünya Mirası. Münih'ten 1.5 saatte. Almanya'nın en iyi korunmuş ortaçağ şehri. 2025."
 tags: ["regensburg", "münih regensburg", "regensburg gezi", "regensburg altstadt", "steinerne brücke", "regensburg dom", "tuna nehri regensburg", "deutschlandticket regensburg", "regensburg unesco", "regensburg 2025", "bavyera ortaçağ", "regensburg gezilecek yerler", "regensburg tarihi", "regensburg ulaşım", "regensburg port", "altstadt regensburg", "danube regensburg", "regensburg bebek arabası", "bavyera şehir gezi", "münih günübirlik regensburg"]
 categories: ["almanya"]

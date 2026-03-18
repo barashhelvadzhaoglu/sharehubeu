@@ -2,7 +2,7 @@
 title: "Lindau Gezi Rehberi | Bodensee'de Ada Şehri | Münih'ten 2 Saatte (2025)"
 date: 2026-03-23
 draft: false
-featureImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80"
+featureImage: "/img/travel/lindau-bodensee-gezi-rehberi.jpg"
 description: "Lindau gezi rehberi: Bodensee adası, liman aslanı, Mangturm, tarihi şehir merkezi. Münih'ten 2 saatte. İsviçre ve Avusturya'ya sınır komşusu. Deutschlandticket ile Bavyera'nın en güzel gölü."
 tags: ["lindau", "bodensee", "lindau bodensee", "münih lindau", "bodensee gezi", "lindau ada", "deutschlandticket lindau", "lindau gezilecek yerler", "lindau liman", "lindau mangturm", "allgäu gezi", "bodensee adası", "lindau 2025", "bavyera göl", "lindau tarihi", "lindau ulaşım", "bodensee avusturya isviçre", "lindau altstadt", "bavyera su kenarı", "lindau bebek arabası"]
 categories: ["almanya"]

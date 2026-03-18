@@ -3,7 +3,7 @@ translationKey: "post-schengen"
 title: "Schengen-Visum beantragen (2025) | Kozmos, Termine und echte Erfahrungen"
 date: 2026-01-10
 draft: false
-featureImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80"
+featureImage: "/img/travel/schengen-visum-beantragen.jpg"
 description: "Wie bekommt man ein Schengen-Visum? Griechenland-Visum über Kozmos, Taktiken zur Terminsuche, VIP-Antrag und Antrag als Angehöriger eines EU-Bürgers. 5 erfolgreiche Anträge zwischen 2021–2025."
 tags: ["schengen visum", "griechenland visum", "kozmos", "visumsantrag", "schengen visum beantragen", "visum termin tipps", "VFS global", "schengen ablehnung", "visum dokumente", "schengen bankkonto", "reiseversicherung schengen", "schengen 2024", "visumsantragsformular", "schengen visum gebühr", "wie lange dauert visum", "visum ablehnung einspruch", "schengen visum prozess", "schengen termin", "eu bürger angehöriger visum", "schengen visum europa"]
 categories: ["seyahat"]

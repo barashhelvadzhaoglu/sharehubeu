@@ -2,7 +2,7 @@
 title: "Ingolstadt Reiseführer | Donaustadt 1 Stunde von München (2025)"
 date: 2026-03-26
 draft: false
-featureImage: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80"
+featureImage: "/img/travel/ingolstadt-reisefuehrer.jpg"
 description: "Ingolstadt Reiseführer: Altstadt, Neues Schloss, Donauufer, Liebfrauenmünster. Das historische Gesicht von Audis Stadt. 1 Stunde von München mit Deutschlandticket. 2025."
 tags: ["ingolstadt", "münchen ingolstadt", "ingolstadt reise", "ingolstadt altstadt", "ingolstadt donau", "ingolstadt neues schloss", "deutschlandticket ingolstadt", "audi ingolstadt", "bayern stadt", "ingolstadt 2025", "ingolstadt transport", "ingolstadt sehenswürdigkeiten", "donau fluss", "ingolstadt geschichte", "ingolstadt liebfrauenmünster", "bayern reise", "ingolstadt armeemuseum", "ingolstadt budget", "ingolstadt kinderwagen", "frankenstein ingolstadt"]
 categories: ["almanya"]

@@ -2,7 +2,7 @@
 title: "Schloss Neuschwanstein Reiseführer | Disneys Vorlage | Praktische Tipps (2025)"
 date: 2026-03-25
 draft: false
-featureImage: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200&q=80"
+featureImage: "/img/travel/schloss-neuschwanstein-reisefuehrer.jpg"
 description: "Schloss Neuschwanstein: Anreise, Tickets kaufen, Marienbrücke-Aussicht und praktische Tipps. Bayerns und vielleicht Deutschlands ikonischstes Bauwerk. Tipps um Menschenmassen zu vermeiden. 2025."
 tags: ["neuschwanstein", "schloss neuschwanstein", "füssen neuschwanstein", "neuschwanstein tickets", "neuschwanstein besuch", "marienbrücke", "neuschwanstein aussicht", "bayern schloss", "disney neuschwanstein", "neuschwanstein 2025", "neuschwanstein anreise", "neuschwanstein tour", "bayern tourist", "neuschwanstein menschenmassen", "neuschwanstein morgens", "hohenschwangau", "bayern palast", "neuschwanstein kinderwagen", "münchen neuschwanstein", "deutschlandticket neuschwanstein"]
 categories: ["almanya"]

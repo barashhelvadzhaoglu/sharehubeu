@@ -2,7 +2,7 @@
 title: "Salzburg Travel Guide | Mozart's City 1.5 Hours from Munich (2025)"
 date: 2026-03-21
 draft: false
-featureImage: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1200&q=80"
+featureImage: "/img/travel/salzburg-day-trip-munich.jpg"
 description: "Salzburg travel guide: Hohensalzburg Fortress, Getreidegasse, Mozart's birthplace, Mirabell Gardens. 1.5 hours from Munich. Deutschlandticket to the border free. 2025."
 tags: ["salzburg", "munich salzburg", "austria salzburg", "salzburg travel", "hohensalzburg fortress", "mozart salzburg", "getreidegasse", "mirabell gardens", "salzburg things to do", "deutschlandticket salzburg", "munich day trip austria", "salzburg 2025", "salzburg budget", "salzburg transport", "altstadt salzburg", "sound of music salzburg", "salzburg museums", "salzburg food", "bavaria austria", "salzburg stroller"]
 categories: ["almanya"]

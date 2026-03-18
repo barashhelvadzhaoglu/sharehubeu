@@ -2,7 +2,7 @@
 title: "Lindau Reiseführer | Inselstadt am Bodensee | 2 Stunden von München (2025)"
 date: 2026-03-23
 draft: false
-featureImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80"
+featureImage: "/img/travel/lindau-reisefuehrer.jpg"
 description: "Lindau Reiseführer: Bodensee-Insel, Hafenlöwe, Mangturm, historische Altstadt. 2 Stunden von München. Grenzend an die Schweiz und Österreich. Deutschlandticket an Bayerns schönstem See."
 tags: ["lindau", "bodensee", "lindau bodensee", "münchen lindau", "bodensee reise", "lindau insel", "deutschlandticket lindau", "lindau sehenswürdigkeiten", "lindau hafen", "lindau mangturm", "allgäu reise", "bodensee insel", "lindau 2025", "bayern see", "lindau geschichte", "lindau transport", "bodensee österreich schweiz", "lindau altstadt", "bayern wasserfront", "lindau kinderwagen"]
 categories: ["almanya"]
