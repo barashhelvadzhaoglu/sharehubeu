@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.png"
+featureimage: "img/sharehubeu-hero.webp"
 title: "Expat-Ratgeber"
 description: "Praktische Ratgeber für den Umzug nach Deutschland — Visum, Wohnung, Führerschein und mehr."
 translationKey: "germany-expat"

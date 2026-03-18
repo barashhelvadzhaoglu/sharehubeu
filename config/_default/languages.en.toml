@@ -6,8 +6,8 @@ title = "Share Hub"
 [params]
   displayName = "EN"
   isoCode = "en"
-  logo = "img/sharehubeu-logo.png"
-  homepageImage = "img/sharehubeu-hero.png"
+  logo = "img/sharehubeu-logo.webp"
+  homepageImage = "img/sharehubeu-hero.webp"
   showLogo = true
   showName = true
   layout = "hero"

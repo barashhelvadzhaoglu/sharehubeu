@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.png"
+featureimage: "img/sharehubeu-hero.webp"
 title: "Deutschland"
 description: "Bürokratie, Lebenserfahrungen und Reiserouten aus München."
 translationKey: "germany-section"

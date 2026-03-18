@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.png"
+featureimage: "img/sharehubeu-hero.webp"
 title: "Seyahat Rehberleri"
 description: "Turist broşürü değil; gerçek deneyimler, hatalar ve rotalar."
 translationKey: "travel-list"
