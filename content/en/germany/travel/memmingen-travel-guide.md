@@ -2,7 +2,7 @@
 title: "Memmingen Travel Guide | Medieval City 1.5 Hours from Munich (2025)"
 date: 2026-03-20
 draft: false
-featureimage: "/img/travel/memmingen-travel-guide.webp"
+featureimage: "img/travel/memmingen-travel-guide.webp"
 description: "Memmingen travel guide: Marktplatz, city walls, Sieben Dächer and day trip from Munich with Deutschlandticket. One of Bavaria's best-preserved medieval towns. 2025 practical info."
 tags: ["memmingen", "munich day trip", "bavaria medieval", "deutschlandticket memmingen", "memmingen things to do", "memmingen marktplatz", "allgäu travel", "bavaria travel", "memmingen city walls", "germany medieval town", "memmingen 2025", "allgäu bavaria", "munich surroundings", "bavaria day trip", "memmingen church", "germany historic town", "memmingen steuerhaus", "memmingen transport", "bavaria family trip", "memmingen hidden gem"]
 categories: ["almanya"]

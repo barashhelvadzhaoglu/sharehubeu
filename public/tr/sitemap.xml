@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/tr/almanya/</loc>
-    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -20,6 +20,134 @@
       hreflang="tr"
       href="http://localhost:1313/tr/almanya/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/almanya/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/almanya/expat/almanyada-isten-cikarilmak-is-mahkemesi/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/germany/expat/fired-in-germany-labor-court/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/almanya/expat/almanyada-isten-cikarilmak-is-mahkemesi/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/avukatl%C4%B1k-sigortas%C4%B1/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/expat/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/expat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/expat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/expat/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/almanya/expat/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/germany/expat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/deutschland/expat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/almanya/expat/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/i%C5%9F-hukuku/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/i%C5%9F-mahkemesi/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/i%C5%9Ften-%C3%A7%C4%B1kar%C4%B1lma/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/jobcenter/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/jobcenter/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/jobcenter/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/tazminat/</loc>
+    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/tr/categories/almanya/</loc>
@@ -135,25 +263,6 @@
   <url>
     <loc>http://localhost:1313/tr/tags/m%C3%BCnih-regensburg/</loc>
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/</loc>
-    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/de/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/tr/tags/regensburg/</loc>
@@ -305,25 +414,6 @@
       rel="alternate"
       hreflang="tr"
       href="http://localhost:1313/tr/tags/steinerne-br%C3%BCcke/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/</loc>
-    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/de/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/tags/"
     />
   </url>
   <url>
@@ -1971,25 +2061,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tr/almanya/expat/</loc>
-    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/germany/expat/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/de/deutschland/expat/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/almanya/expat/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/tr/tags/immobilienscout/</loc>
     <lastmod>2026-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -2257,10 +2328,6 @@
     <lastmod>2026-03-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tr/tags/almanya/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/</loc>
     <lastmod>2026-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -2271,25 +2338,6 @@
   <url>
     <loc>http://localhost:1313/tr/tags/ehliyet/</loc>
     <lastmod>2026-03-10T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/expat/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tags/expat/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/de/tags/expat/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/tags/expat/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/tr/tags/s%C3%BCr%C3%BCc%C3%BC-belgesi/</loc>

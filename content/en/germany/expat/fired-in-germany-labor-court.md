@@ -4,7 +4,7 @@ date: 2026-04-20T08:00:00+01:00
 draft: false
 description: "What happens when you get fired in Germany? Labor court, compensation, Jobcenter, and legal insurance — the complete story from someone who lived it."
 translationKey: "fired-in-germany-labor-court"
-featureimage: "/img/living/fired-in-germany-labor-court.webp"
+featureimage: "img/living/fired-in-germany-labor-court.webp"
 tags:
   - "Germany"
   - "Labor Law"

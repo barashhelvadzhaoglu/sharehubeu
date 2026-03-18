@@ -10,7 +10,7 @@ tags:
   - "Education"
   - "School"
   - "Expat Parenting"
-featureimage: "/img/living/school.webp"
+featureimage: "img/living/school.webp"
 ---
 
 # Primary School: Turkey vs Germany

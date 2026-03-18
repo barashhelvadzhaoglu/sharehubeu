@@ -10,7 +10,7 @@ tags:
   - "Job Seeker Visa"
   - "Moving to Germany"
   - "Expat Life"
-featureimage: "/img/living/visa.webp"
+featureimage: "img/living/visa.webp"
 ---
 
 # Germany's Job Seeker Visa: My Personal Experience and Everything You Need to Know

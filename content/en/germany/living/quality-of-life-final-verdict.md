@@ -10,7 +10,7 @@ tags:
   - "Quality of Life"
   - "Expat Life"
   - "Munich"
-featureimage: "/img/living/quality-of-life.webp"
+featureimage: "img/living/quality-of-life.webp"
 ---
 
 # Quality of Life & Happiness: The Final Verdict

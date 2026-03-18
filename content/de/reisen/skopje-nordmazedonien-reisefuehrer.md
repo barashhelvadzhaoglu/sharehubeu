@@ -3,7 +3,7 @@ translationKey: "post-uskup"
 title: "Skopje Reiseführer | Nordmazedonien Hauptstadt | Visumfrei (2024)"
 date: 2024-03-20
 draft: false
-featureimage: "/img/travel/skopje-nordmazedonien-reisefuehrer.webp"
+featureimage: "img/travel/skopje-nordmazedonien-reisefuehrer.webp"
 description: "Skopje Reiseführer: Kale-Festung, Alter Basar, Statuen und Budget-Tipps. Nordmazedonien visumfrei. Umfassender Leitfaden zur interessantesten und umstrittensten Stadt des Balkans."
 tags: ["skopje", "nordmazedonien", "reiseführer", "visumfrei", "balkan", "skopje sehenswürdigkeiten", "skopje 2014", "matka schlucht", "skopje alter basar", "nordmazedonien transport", "skopje budget", "balkanreise", "nordmazedonien unterkunft", "skopje essen", "balkan reiseroute", "nordmazedonien 2024", "visumfreie balkanländer", "skopje festung", "günstigstes europa reisen", "osmanischer basar balkan"]
 categories: ["seyahat"]

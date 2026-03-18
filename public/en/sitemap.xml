@@ -3,8 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/en/germany/expat/fired-in-germany-labor-court/</loc>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/almanya/expat/almanyada-isten-cikarilmak-is-mahkemesi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/germany/expat/fired-in-germany-labor-court/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/compensation/</loc>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/en/germany/expat/</loc>
-    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="tr"
@@ -23,11 +41,15 @@
   </url>
   <url>
     <loc>http://localhost:1313/en/tags/expat-life/</loc>
-    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/fired-in-germany/</loc>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/en/germany/</loc>
-    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="tr"
@@ -46,23 +68,37 @@
   </url>
   <url>
     <loc>http://localhost:1313/en/tags/germany/</loc>
-    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/en/germany/expat/eu-series-04-job-seeker-visa-germany-en/</loc>
-    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+    <loc>http://localhost:1313/en/tags/jobcenter/</loc>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/jobcenter/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/jobcenter/"
+    />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/job-seeker-visa/</loc>
-    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+    <loc>http://localhost:1313/en/tags/labor-court/</loc>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/moving-to-germany/</loc>
-    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+    <loc>http://localhost:1313/en/tags/labor-law/</loc>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/legal-insurance/</loc>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="tr"
@@ -81,7 +117,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+    <lastmod>2026-04-20T08:00:00+01:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="tr"
@@ -97,6 +133,18 @@
       hreflang="en"
       href="http://localhost:1313/en/tags/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/germany/expat/eu-series-04-job-seeker-visa-germany-en/</loc>
+    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/job-seeker-visa/</loc>
+    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/moving-to-germany/</loc>
+    <lastmod>2026-04-18T08:00:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/en/tags/visa/</loc>

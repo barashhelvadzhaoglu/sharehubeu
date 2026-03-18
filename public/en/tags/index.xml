@@ -7,12 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 18 Apr 2026 08:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Apr 2026 08:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Compensation</title>
+      <link>http://localhost:1313/en/tags/compensation/</link>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/compensation/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Expat Life</title>
       <link>http://localhost:1313/en/tags/expat-life/</link>
-      <pubDate>Sat, 18 Apr 2026 08:00:00 +0100</pubDate>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/en/tags/expat-life/</guid>
       <description></description>
@@ -20,11 +30,61 @@
     </item>
     
     <item>
+      <title>Fired in Germany</title>
+      <link>http://localhost:1313/en/tags/fired-in-germany/</link>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/fired-in-germany/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Germany</title>
       <link>http://localhost:1313/en/tags/germany/</link>
-      <pubDate>Sat, 18 Apr 2026 08:00:00 +0100</pubDate>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/en/tags/germany/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jobcenter</title>
+      <link>http://localhost:1313/en/tags/jobcenter/</link>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/jobcenter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Labor Court</title>
+      <link>http://localhost:1313/en/tags/labor-court/</link>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/labor-court/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Labor Law</title>
+      <link>http://localhost:1313/en/tags/labor-law/</link>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/labor-law/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Legal Insurance</title>
+      <link>http://localhost:1313/en/tags/legal-insurance/</link>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/en/tags/legal-insurance/</guid>
       <description></description>
       
     </item>

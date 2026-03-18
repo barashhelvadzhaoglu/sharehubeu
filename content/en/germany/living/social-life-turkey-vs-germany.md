@@ -10,7 +10,7 @@ tags:
   - "Social Life"
   - "Expat Life"
   - "Munich"
-featureimage: "/img/living/social.webp"
+featureimage: "img/living/social.webp"
 ---
 
 # Social Life & Making Friends: Turkey vs Germany

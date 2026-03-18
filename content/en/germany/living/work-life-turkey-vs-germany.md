@@ -10,7 +10,7 @@ tags:
   - "Work Life Balance"
   - "Expat Life"
   - "Munich"
-featureimage: "/img/living/work-life.webp"
+featureimage: "img/living/work-life.webp"
 ---
 
 # Work Life & Work-Life Balance: Turkey vs Germany
