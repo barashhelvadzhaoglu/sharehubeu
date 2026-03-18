@@ -1,4 +1,5 @@
 ---
+featureImage: "img/sharehubeu-hero.png"
 title: "Travel Guides"
 description: "No tourist brochure language; real experiences, struggles, and routes."
 translationKey: "travel-list"

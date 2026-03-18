@@ -1,4 +1,5 @@
 ---
+featureImage: "img/sharehubeu-hero.png"
 title: "Almanya"
 description: "Münih'ten bürokrasi notları, yaşam deneyimleri ve gezi rotaları."
 translationKey: "germany-section"

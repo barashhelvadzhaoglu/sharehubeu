@@ -5,20 +5,38 @@
 
 [[main]]
   name = "Germany"
-  pageRef = "almanya"
+  pageRef = "germany"
   weight = 2
 
 [[main]]
+  name = "Living"
+  pageRef = "germany/living"
+  parent = "Germany"
+  weight = 1
+
+[[main]]
   name = "Travel"
-  pageRef = "seyahat"
+  pageRef = "germany/travel"
+  parent = "Germany"
+  weight = 2
+
+[[main]]
+  name = "Expat Guides"
+  pageRef = "germany/expat"
+  parent = "Germany"
+  weight = 3
+
+[[main]]
+  name = "Travel"
+  pageRef = "travel"
   weight = 3
 
 [[main]]
   name = "About"
-  pageRef = "hakkimda"
+  pageRef = "about"
   weight = 4
 
 [[main]]
   name = "Contact"
-  pageRef = "iletisim"
+  pageRef = "contact"
   weight = 5

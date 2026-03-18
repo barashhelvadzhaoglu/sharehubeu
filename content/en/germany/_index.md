@@ -1,4 +1,5 @@
 ---
+featureImage: "img/sharehubeu-hero.png"
 title: "Germany"
 description: "Bureaucracy notes, life experiences, and travel routes from Munich."
 translationKey: "germany-section"
