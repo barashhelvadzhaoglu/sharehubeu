@@ -1,6 +1,6 @@
 ---
 translationKey: "post-saraybosna"
-title: "Bosna Hersek Saraybosna Gezi Rehberi | Vizesiz, Ucuz ve Tarihi (2024)"
+title: "Bosna Hersek Saraybosna Gezi Rehberi | Vizesiz, Ucuz ve Tarihi (2026)"
 date: 2024-05-15
 draft: false
 featureimage: "img/travel/bosna-hersek-saraybosna-gezi-rehberi.webp"

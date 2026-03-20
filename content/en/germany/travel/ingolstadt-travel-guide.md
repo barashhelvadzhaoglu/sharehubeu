@@ -63,3 +63,7 @@ An interesting historical detail: Mary Shelley chose Ingolstadt University as th
 **How long to spend in Ingolstadt?** Half a day for the city. Full day possible.
 
 ---
+---
+*Related:*
+- [Regensburg](/en/germany/travel/regensburg-travel-guide/) · [Augsburg](/en/germany/travel/augsburg-travel-guide/)
+- [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)

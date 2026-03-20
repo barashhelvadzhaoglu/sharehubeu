@@ -1,5 +1,5 @@
 ---
-title: "Can You Drive in Germany with a Bulgarian License? | Turkish→Bulgarian Transfer Reality (2025)"
+title: "Can You Drive in Germany with a Bulgarian License? | Turkish→Bulgarian Transfer Reality (2026)"
 date: 2026-03-15
 draft: false
 images: ["img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"]
@@ -173,3 +173,8 @@ Looking back today: time was spent, money was spent, but the legal result was ze
 If someone reading this is making a similar plan — the greatest gain is knowing this truth from the very beginning.
 
 The only valid way to get a driving license in Germany is the fahrschule process. Long and expensive, but the only way that works.
+
+---
+*Related guides:*
+- [Driving Licence Renewal in Germany](/en/germany/expat/driving-license-renewal-germany/)
+- [Cars & Traffic: Turkey vs Germany](/en/germany/living/cars-traffic-turkey-vs-germany/)

@@ -92,7 +92,7 @@ Nach Tiflis zu gehen, ohne einen Blick auf Kazbegi zu werfen, ist ein großer Ve
 
 ---
 
-## Praktische Aktuelle Informationen (2024–2026)
+## Praktische Aktuelle Informationen (2026–2026)
 
 **Einreisedokument:** Türkische Staatsbürger können mit einem Chip-Personalausweis nach Georgien einreisen. Ab 2026 ist eine Reiseversicherung obligatorisch.
 

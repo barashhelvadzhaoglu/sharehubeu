@@ -62,3 +62,8 @@ UNESCO World Heritage. Medieval water canal system. Canals visible throughout th
 **Where is Fuggerei?** In the Jakobervorstadt neighborhood, 10–15 minutes walk from center.
 
 **Is one day enough for Augsburg?** Yes, a full day is perfect. Leave early morning, return in the evening.
+
+---
+*Part of the [Romantic Road](/en/germany/romantic-route/romantic-road-guide/) series.*
+- Nearby: [Füssen](/en/germany/travel/fuessen-town-travel-guide/) · [Memmingen](/en/germany/travel/memmingen-travel-guide/)
+- [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)

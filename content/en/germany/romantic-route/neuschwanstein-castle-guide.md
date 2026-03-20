@@ -115,3 +115,8 @@ Castle interior cannot be visited with a stroller — they don't allow them insi
 **Is overnight stay needed?** Not for just the castle. Day trip from Munich works if you leave early.
 
 **Best spot for castle photos?** Marienbrücke bridge — the classic shot.
+
+---
+*Part of the [Romantic Road](/en/germany/romantic-route/romantic-road-guide/) series.*
+- [Füssen town guide](/en/germany/travel/fuessen-town-travel-guide/) — visit both on the same day
+- [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)

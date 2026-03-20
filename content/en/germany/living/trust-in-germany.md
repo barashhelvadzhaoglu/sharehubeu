@@ -97,3 +97,8 @@ That's a rare thing. And it's worth noticing.
 
 ### Tags
 `#GermanyLife` `#ExpatGermany` `#LivingInMunich` `#MunichExpat` `#TrustInSociety` `#GermanCulture` `#ExpatLife` `#TurkishExpat` `#MoveToGermany` `#CivicTrust` `#GermanyTravel` `#AuswandernDeutschland` `#LifeAbroad` `#CulturalDifferences` `#ShareHubEU`
+
+---
+*Related reading:*
+- [Social Life: Turkey vs Germany](/en/germany/living/social-life-turkey-vs-germany/)
+- [Turkey vs Germany: Full Comparison](/en/germany/living/turkey-vs-germany/)

@@ -1,6 +1,6 @@
 ---
 translationKey: "post-uskup"
-title: "Üsküp Gezi Rehberi | Kuzey Makedonya Başkenti | Vizesiz (2024)"
+title: "Üsküp Gezi Rehberi | Kuzey Makedonya Başkenti | Vizesiz (2026)"
 date: 2024-03-20
 draft: false
 featureimage: "img/travel/uskup-kuzey-makedonya-gezi-rehberi.webp"

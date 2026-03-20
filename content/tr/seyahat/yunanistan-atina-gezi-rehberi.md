@@ -1,6 +1,6 @@
 ---
 translationKey: "post-atina"
-title: "Yunanistan Gezi Rehberi | Atina, Adalar ve Pratik Bilgiler (2024)"
+title: "Yunanistan Gezi Rehberi | Atina, Adalar ve Pratik Bilgiler (2026)"
 date: 2024-07-01
 draft: false
 featureimage: "https://images.unsplash.com/photo-1516483642785-215a7295119c?w=1200&q=80"

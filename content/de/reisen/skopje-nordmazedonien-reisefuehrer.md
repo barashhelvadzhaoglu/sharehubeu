@@ -1,6 +1,6 @@
 ---
 translationKey: "post-uskup"
-title: "Skopje Reiseführer | Nordmazedonien Hauptstadt | Visumfrei (2024)"
+title: "Skopje Reiseführer | Nordmazedonien Hauptstadt | Visumfrei (2026)"
 date: 2024-03-20
 draft: false
 featureimage: "img/travel/skopje-nordmazedonien-reisefuehrer.webp"

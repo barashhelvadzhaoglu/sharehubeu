@@ -85,3 +85,7 @@ Regensburg is more affordable than Munich — many options around the Altstadt.
 **Is Regensburg UNESCO?** Yes, UNESCO World Heritage since 2006 — the Altstadt and Stadtamhof.
 
 **Does Historische Wurstküche need a reservation?** No. Queue up and go. Eaten outside by the river.
+---
+*Related:*
+- [Ingolstadt](/en/germany/travel/ingolstadt-travel-guide/) · [Augsburg](/en/germany/travel/augsburg-travel-guide/)
+- [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)

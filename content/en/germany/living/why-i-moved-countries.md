@@ -96,3 +96,10 @@ I asked. And my answer led me to Munich.
 
 ### Tags
 `#ExpatLife` `#MovingAbroad` `#WhyILeft` `#TurkeyToGermany` `#ExpatDecision` `#LivingInMunich` `#MunichExpat` `#FamilyAbroad` `#RaisingKidsAbroad` `#ChildDevelopment` `#ExpatParenting` `#LifeDecisions` `#TurkishExpat` `#MoveToGermany` `#ShareHubEU`
+
+---
+*Related reading:*
+- [Turkey vs Germany: Full Comparison](/en/germany/living/turkey-vs-germany/)
+- [Working in the Netherlands](/en/germany/expat/eu-series-01-netherlands/)
+- [Working in Luxembourg](/en/germany/expat/eu-series-02-luxembourg/)
+- [Why I Chose Germany](/en/germany/expat/eu-series-03-comparison-why-germany/)

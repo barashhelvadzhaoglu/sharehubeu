@@ -96,7 +96,7 @@ Tiflis'e gidip Kazbegi'ye hiç bakmamak büyük kayıp. Tiflis'ten ~150 km kuzey
 
 ---
 
-## Pratik ve Güncel Bilgiler (2024–2026)
+## Pratik ve Güncel Bilgiler (2026–2026)
 
 **Giriş belgesi:** Türk vatandaşları Gürcistan'a çipli kimlik kartıyla girebiliyor. 2026 itibarıyla seyahat sigortası zorunlu.
 

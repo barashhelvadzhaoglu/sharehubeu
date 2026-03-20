@@ -27,16 +27,21 @@
   weight = 3
 
 [[main]]
+  name = "Romantic Road"
+  pageRef = "germany/romantic-route"
+  weight = 3
+
+[[main]]
   name = "Travel"
   pageRef = "travel"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 5
+  weight = 6

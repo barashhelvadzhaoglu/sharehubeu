@@ -1,17 +1,51 @@
 ---
-title: "About Me"
-description: "What is Share Hub, who is it for, and what kind of content can you find here?"
+title: "About"
+description: "A Network Security Engineer, father of two, and reluctant bureaucracy expert living in Munich. Why Share Hub exists and what you'll find here."
 translationKey: "about-page"
+featureimage: "img/sharehubeu-hero.webp"
 ---
 
-## Hello, Welcome to Share Hub!
+## Hi — I'm Barash
 
-This blog is dedicated to those living in Germany, planning to move to Europe, or looking to explore travel routes from the Balkans to the Caucasus.
+I live in Munich. I'm a Network Security Engineer. I'm a father of two — aged 1 and 5. And I own a double stroller whose dimensions I now know are incompatible with approximately 60% of European cobblestone streets.
 
-You won't find just official procedures here; you'll find **real-life experiences**. Whether it's the specific documents that tripped me up during my driver's license exchange in Munich, how I secured a visa appointment, or navigating Tbilisi’s sulfur baths with two kids (aged 1 and 5) and a massive double stroller — I share it all exactly as it happened.
+I was born in Turkey, obtained Bulgarian citizenship, and moved to Germany. I've personally navigated the bureaucratic maze between these three countries — and I'm still navigating it.
 
-### What Can You Find Here?
+Share Hub was born from that process.
 
-* **Life in Germany:** Practical guides on handling bureaucracy, including driver's licenses, rentals, and official paperwork without getting lost.
-* **Traveling with Kids:** Travel routes accessible from Munich using the Deutschlandticket and city guides specifically curated for families with strollers.
-* **Networking World:** Insights into technology and industry notes from the perspective of a Network Security Engineer.
+---
+
+## Why Does This Blog Exist?
+
+Before moving to Germany, I spent hours researching online. Most of what I found was either a cold summary of official documents or vague advice along the lines of "a friend sorted it out for me."
+
+**Finding first-hand, detailed, honest information was genuinely hard.**
+
+Which document tripped me up during the driving licence renewal? Why did trying to use a Bulgarian licence in Germany not work — and what's the legal reason? Nobody had mentioned that requesting a court interpreter is free. What happened when the Jobcenter counted my compensation as income and cut my benefits?
+
+Nobody had written about these things. I decided to.
+
+---
+
+## What You'll Find Here
+
+**Living in Germany**
+Bureaucracy, driving licences, housing, labour law, healthcare — all covered from both a comparative Turkey-vs-Germany angle and a "this actually happened to me" perspective.
+
+**Moving to Europe**
+I personally researched the Netherlands, Luxembourg, and Germany — attended job interviews in all three. Which country makes sense for whom: an honest comparison.
+
+**Travel Guides**
+Family-friendly day trips around Munich with the Deutschlandticket. Routes from the Caucasus to the Balkans. Is it stroller-accessible? Child-friendly? I write about that too.
+
+---
+
+## A Note
+
+Every article here is based on personal experience. Not legal advice, not medical guidance — just the notes of someone who walked the same road.
+
+But these notes tell you considerably more than any official document will.
+
+---
+
+*Have a question or want to share your experience? → [Contact](/en/contact/)*

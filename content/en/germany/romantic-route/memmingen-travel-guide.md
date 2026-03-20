@@ -66,3 +66,8 @@ On the corner of Marktplatz, 16th-century home of the weavers' guild. Frescoes s
 **How long to spend in Memmingen?** 3–4 hours for the city. Add Allgäu region for a full day.
 
 **Is Memmingen expensive?** Much more affordable than Munich. Small city, no tourist prices.
+
+---
+*Part of the [Romantic Road](/en/germany/romantic-route/romantic-road-guide/) series.*
+- [Augsburg](/en/germany/travel/augsburg-travel-guide/) · [Lindau](/en/germany/travel/lindau-lake-constance-travel-guide/)
+- [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)

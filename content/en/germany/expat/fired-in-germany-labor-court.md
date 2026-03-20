@@ -150,3 +150,8 @@ But the Jobcenter calculated it differently. I don't have a clean solution to th
 
 ### Tags
 `#FiredInGermany` `#GermanLaborLaw` `#Arbeitsgericht` `#Jobcenter` `#Abfindung` `#Rechtsschutzversicherung` `#GermanyExpat` `#WorkingInGermany` `#LaborCourt` `#GermanyRights` `#ExpatLife` `#MoveToGermany` `#TurkishExpat` `#GermanyWork` `#ShareHubEU`
+
+---
+*Related guides:*
+- [Work-Life Balance: Turkey vs Germany](/en/germany/living/work-life-turkey-vs-germany/)
+- [Job Seeker Visa](/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)

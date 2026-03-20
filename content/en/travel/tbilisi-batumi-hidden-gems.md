@@ -96,7 +96,7 @@ Going to Tbilisi without even glancing at Kazbegi is a big loss. About 150 km no
 
 ---
 
-## Practical and Current Information (2024–2026)
+## Practical and Current Information (2026–2026)
 
 **Entry document:** Turkish citizens can enter Georgia with a chipped ID card. As of 2026, travel insurance is mandatory.
 

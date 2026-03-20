@@ -68,3 +68,8 @@ Lindau is very close to where three countries share Lake Constance — Germany, 
 **Can you cross to Austria from Lindau?** Yes. Bregenz is very close by boat or train. Extra ticket needed.
 
 **Is there swimming in Lindau?** Yes, several swimming spots around the lake in summer.
+
+---
+*Part of the [Romantic Road](/en/germany/romantic-route/romantic-road-guide/) series.*
+- [Füssen](/en/germany/travel/fuessen-town-travel-guide/) · [Memmingen](/en/germany/travel/memmingen-travel-guide/)
+- [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)

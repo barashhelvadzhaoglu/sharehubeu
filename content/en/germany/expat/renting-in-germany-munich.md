@@ -166,3 +166,8 @@ Yes — surrounding cities like Augsburg, Landsberg am Lech, Freising are 30-40%
 4. **Write a personal cover letter** — don't use the same text for every listing
 5. **Consider WG not as a backup but as a starting point**
 6. **Look at surrounding cities too** — Munich's S-Bahn network is extensive
+
+---
+*Related guides:*
+- [Housing: Turkey vs Germany](/en/germany/living/housing-turkey-vs-germany/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)

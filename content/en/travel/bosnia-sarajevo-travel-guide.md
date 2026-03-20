@@ -1,6 +1,6 @@
 ---
 translationKey: "post-saraybosna"
-title: "Bosnia Herzegovina Sarajevo Travel Guide | Visa-Free, Budget & Historic (2024)"
+title: "Bosnia Herzegovina Sarajevo Travel Guide | Visa-Free, Budget & Historic (2026)"
 date: 2024-05-15
 draft: false
 featureimage: "img/travel/bosnia-sarajevo-travel-guide.webp"

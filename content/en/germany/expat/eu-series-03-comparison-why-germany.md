@@ -147,3 +147,8 @@ The Netherlands was close. The English-language advantage and the progressive ed
 
 ### Tags
 `#NetherlandsVsGermany` `#LuxembourgVsGermany` `#WhyGermany` `#ExpatComparison` `#MoveToEurope` `#TurkishExpat` `#ExpatDecision` `#LivingInMunich` `#MunichExpat` `#EuropeExpat` `#ExpatLife` `#WhereToMove` `#GermanyOrNetherlands` `#LuxembourgExpat` `#ShareHubEU`
+
+---
+*Part of the [Europe for Expats](/en/germany/expat/) series.*
+- [Netherlands](/en/germany/expat/eu-series-01-netherlands/) · [Luxembourg](/en/germany/expat/eu-series-02-luxembourg/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/) · [Turkey vs Germany](/en/germany/living/turkey-vs-germany/)

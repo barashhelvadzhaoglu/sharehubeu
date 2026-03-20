@@ -1,6 +1,6 @@
 ---
 translationKey: "post-zurih"
-title: "Switzerland Zurich Travel Guide | Things to Do, Transport & Budget (2024)"
+title: "Switzerland Zurich Travel Guide | Things to Do, Transport & Budget (2026)"
 date: 2024-06-10
 draft: false
 featureimage: "https://images.unsplash.com/photo-1517330357046-3ab5a5dd42b1?w=1200&q=80"

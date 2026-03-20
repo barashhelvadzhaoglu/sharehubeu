@@ -68,3 +68,8 @@ Small hill opposite Mirabell. Worth climbing for panoramic city views — free, 
 **Is Deutschlandticket valid to Salzburg?** Valid to Freilassing. Freilassing → Salzburg separate ticket (~4–6 EUR). Total very cheap.
 
 **Is one day enough for Salzburg?** Yes for the city. Add Hallstatt or Salzkammergut for 2 days.
+
+---
+*Related:*
+- [Füssen](/en/germany/travel/fuessen-town-travel-guide/) · [Lindau](/en/germany/travel/lindau-lake-constance-travel-guide/)
+- [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)

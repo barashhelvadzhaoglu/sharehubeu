@@ -137,3 +137,8 @@ I came away from my research impressed — and with genuine regret that it didn'
 
 ### Tags
 `#LuxembourgExpat` `#WorkInLuxembourg` `#LuxembourgTax` `#FreePT` `#LuxembourgHousing` `#MovingToLuxembourg` `#LuxembourgHealthcare` `#ExpatLuxembourg` `#TurkishExpat` `#InternationalTalent` `#EuropeExpat` `#ExpatLife` `#MoveToEurope` `#CrossBorderWork` `#ShareHubEU`
+
+---
+*Part of the [Europe for Expats](/en/germany/expat/) series.*
+- [Netherlands](/en/germany/expat/eu-series-01-netherlands/) · [Why I Chose Germany](/en/germany/expat/eu-series-03-comparison-why-germany/)
+- [Job Seeker Visa for Germany](/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)

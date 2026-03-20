@@ -1,6 +1,6 @@
 ---
 translationKey: "post-zurih"
-title: "Schweiz Zürich Reiseführer | Sehenswürdigkeiten, Transport & Budget (2024)"
+title: "Schweiz Zürich Reiseführer | Sehenswürdigkeiten, Transport & Budget (2026)"
 date: 2024-06-10
 draft: false
 featureimage: "https://images.unsplash.com/photo-1517330357046-3ab5a5dd42b1?w=1200&q=80"

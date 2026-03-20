@@ -1,6 +1,6 @@
 ---
 translationKey: "post-basel"
-title: "Schweiz Basel Reiseführer | Eine Stadt, Drei Länder: Schweiz, Frankreich, Deutschland (2024)"
+title: "Schweiz Basel Reiseführer | Eine Stadt, Drei Länder: Schweiz, Frankreich, Deutschland (2026)"
 date: 2024-06-20
 draft: false
 featureimage: "https://images.unsplash.com/photo-1505242844917-539069d31d0d?w=1200&q=80"

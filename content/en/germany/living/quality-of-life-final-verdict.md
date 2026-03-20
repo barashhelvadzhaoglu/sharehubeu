@@ -101,3 +101,9 @@ Your answer might be different. And that's completely fine.
 
 ### Tags
 `#TurkeyVsGermany` `#ExpatLife` `#QualityOfLife` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#MoveToGermany` `#ExpatDecision` `#WhyIMoved` `#GermanyOrTurkey` `#ExpatConclusion` `#FamilyAbroad` `#BuildingALife` `#MunichLife` `#ShareHubEU`
+
+---
+*This is the closing article of the Turkey vs Germany series.*
+- [Back to series overview](/en/germany/living/turkey-vs-germany/)
+- [Why I moved countries](/en/germany/living/why-i-moved-countries/)
+- [Trust in Germany](/en/germany/living/trust-in-germany/)

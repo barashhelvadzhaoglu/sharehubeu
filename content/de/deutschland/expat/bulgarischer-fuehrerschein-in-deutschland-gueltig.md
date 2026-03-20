@@ -1,5 +1,5 @@
 ---
-title: "Kann Man mit einem Bulgarischen Führerschein in Deutschland Fahren? | Türkisch→Bulgarisch Umschreibung (2025)"
+title: "Kann Man mit einem Bulgarischen Führerschein in Deutschland Fahren? | Türkisch→Bulgarisch Umschreibung (2026)"
 date: 2026-03-15
 draft: false
 images: ["img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"]

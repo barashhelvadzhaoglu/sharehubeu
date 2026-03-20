@@ -138,3 +138,8 @@ Start today.
 
 ### Tags
 `#GermanyJobSeekerVisa` `#JobsucherVisum` `#GermanyVisa` `#VFSGlobal` `#WorkInGermany` `#MoveToGermany` `#TurkishExpat` `#GermanyExpat` `#LearnGerman` `#LivingInMunich` `#ExpatLife` `#MoveToEurope` `#GermanyImmigration` `#JobSearchGermany` `#ShareHubEU`
+
+---
+*Part of the [Europe for Expats](/en/germany/expat/) series.*
+- [Why I Chose Germany](/en/germany/expat/eu-series-03-comparison-why-germany/)
+- [Driving Licence Renewal](/en/germany/expat/driving-license-renewal-germany/) · [Renting in Munich](/en/germany/expat/renting-in-germany-munich/)

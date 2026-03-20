@@ -1,6 +1,6 @@
 ---
 translationKey: "post-pristine"
-title: "Kosova Gezi Rehberi | Priştine ve Prizren | Vizesiz Balkan Rotası (2024)"
+title: "Kosova Gezi Rehberi | Priştine ve Prizren | Vizesiz Balkan Rotası (2026)"
 date: 2024-04-10
 draft: false
 featureimage: "img/travel/kosova-pristine-prizren-gezi-rehberi.webp"

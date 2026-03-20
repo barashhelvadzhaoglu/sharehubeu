@@ -132,3 +132,8 @@ I came close to making this move. What ultimately pointed me toward Germany was 
 
 ### Tags
 `#NetherlandsExpat` `#WorkInNetherlands` `#WelcomeToNL` `#30PercentRuling` `#KennismigrantNL` `#MovingToNetherlands` `#DutchHealthcare` `#HousingNL` `#ExpatNetherlands` `#TurkishExpat` `#InternationalTalent` `#EuropeExpat` `#ExpatLife` `#MoveToEurope` `#ShareHubEU`
+
+---
+*Part of the [Europe for Expats](/en/germany/expat/) series.*
+- [Luxembourg](/en/germany/expat/eu-series-02-luxembourg/) · [Why I Chose Germany](/en/germany/expat/eu-series-03-comparison-why-germany/)
+- [Job Seeker Visa for Germany](/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)

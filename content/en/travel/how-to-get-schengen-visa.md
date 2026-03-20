@@ -1,16 +1,16 @@
 ---
 translationKey: "post-schengen"
-title: "How to Get a Schengen Visa (2025) | Kozmos, Appointments and Real Experiences"
+title: "How to Get a Schengen Visa (2026) | Kozmos, Appointments and Real Experiences"
 date: 2026-01-10
 draft: false
 featureimage: "img/travel/how-to-get-schengen-visa.webp"
-description: "How to get a Schengen visa? Greece visa via Kozmos, appointment-finding tactics, VIP application and application as a relative of an EU citizen. 5 successful applications between 2021–2025."
+description: "How to get a Schengen visa? Greece visa via Kozmos, appointment-finding tactics, VIP application and application as a relative of an EU citizen. 5 successful applications between 2021–2026."
 tags: ["schengen visa", "greece visa", "kozmos", "visa application", "schengen visa how to get", "visa appointment tips", "VFS global", "schengen rejection", "visa documents", "schengen bank account", "travel insurance schengen", "schengen 2024", "visa application form", "schengen visa fee", "how long does visa take", "visa refusal appeal", "schengen visa process", "schengen appointment", "eu citizen relative visa", "schengen visa europe"]
 categories: ["seyahat"]
 summary: "Getting a Schengen visa after the pandemic has gotten harder. Greece visa via Kozmos, appointment-finding tactics and application as a relative of an EU citizen — summary of 5 successful applications."
 ---
 
-## Schengen Visa 2025: No Longer Just About Documents
+## Schengen Visa 2026: No Longer Just About Documents
 
 The Schengen visa process is no longer just about gathering the right documents. Today, the main challenge is **finding an appointment** and **accessing the right information at the right time**.
 

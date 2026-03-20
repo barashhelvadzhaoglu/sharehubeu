@@ -1,6 +1,6 @@
 ---
 translationKey: "post-pristine"
-title: "Kosovo Travel Guide | Pristina and Prizren | Visa-Free Balkan Route (2024)"
+title: "Kosovo Travel Guide | Pristina and Prizren | Visa-Free Balkan Route (2026)"
 date: 2024-04-10
 draft: false
 featureimage: "img/travel/kosovo-pristina-prizren-travel-guide.webp"

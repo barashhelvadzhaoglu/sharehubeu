@@ -61,3 +61,9 @@ Artificial lake 2 km south of Füssen. Great for swimming in summer. Lakeside cy
 **Is Forggensee close to Füssen?** Yes, ~2 km. Easy by foot or bike.
 
 **Is an overnight stay needed in Füssen?** Not for just the city. A full day covers Neuschwanstein + town + Forggensee.
+
+---
+*Part of the [Romantic Road](/en/germany/romantic-route/romantic-road-guide/) series.*
+- [Neuschwanstein Castle](/en/germany/travel/neuschwanstein-castle-guide/) — just 4km away
+- [Augsburg](/en/germany/travel/augsburg-travel-guide/) · [Lindau](/en/germany/travel/lindau-lake-constance-travel-guide/)
+- [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)

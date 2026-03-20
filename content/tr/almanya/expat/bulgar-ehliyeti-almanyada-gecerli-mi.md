@@ -1,5 +1,5 @@
 ---
-title: "Bulgar Ehliyetiyle Almanya'da Araç Kullanılır mı? | TR→BG Ehliyet Çevirme Gerçeği (2025)"
+title: "Bulgar Ehliyetiyle Almanya'da Araç Kullanılır mı? | TR→BG Ehliyet Çevirme Gerçeği (2026)"
 date: 2026-03-15
 draft: false
 images: ["img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"]

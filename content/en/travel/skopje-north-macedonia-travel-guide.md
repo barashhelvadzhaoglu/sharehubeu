@@ -1,6 +1,6 @@
 ---
 translationKey: "post-uskup"
-title: "Skopje Travel Guide | North Macedonia Capital | Visa-Free (2024)"
+title: "Skopje Travel Guide | North Macedonia Capital | Visa-Free (2026)"
 date: 2024-03-20
 draft: false
 featureimage: "img/travel/skopje-north-macedonia-travel-guide.webp"

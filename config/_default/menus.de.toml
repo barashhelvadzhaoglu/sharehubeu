@@ -27,16 +27,21 @@
   weight = 3
 
 [[main]]
+  name = "Romantische Straße"
+  pageRef = "deutschland/romantische-strasse"
+  weight = 3
+
+[[main]]
   name = "Reisen"
   pageRef = "reisen"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "Über mich"
   pageRef = "ueber-mich"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "Kontakt"
   pageRef = "kontakt"
-  weight = 5
+  weight = 6

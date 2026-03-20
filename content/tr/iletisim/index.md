@@ -1,15 +1,32 @@
 ---
 title: "İletişim"
-description: "İş birlikleri, sorular ve geri bildirimler için bize ulaşın."
+description: "Sorular, iş birlikleri ve deneyim paylaşımları için ulaşın."
 translationKey: "contact-page"
+featureimage: "img/sharehubeu-hero.webp"
 ---
 
-İş birlikleri, sorular ve geri bildirimler için:
+## Ulaşın
 
-**info (at) share-hub-eu.online**
+Her mesajı okuyor ve yanıtlıyorum.
 
-Yazılarla ilgili deneyimlerinizi, eklemek istediklerinizi veya düzeltmelerinizi de iletebilirsiniz. Her mesajı okuyor ve yanıtlıyorum.
+**📫 E-posta:** [info@share-hub-eu.online](mailto:info@share-hub-eu.online)
 
 ---
 
-📫 **Email:** [info (at) share-hub-eu.online](mailto:info@share-hub-eu.online)
+## Ne Zaman Yazabilirsiniz?
+
+**Deneyim paylaşmak için**
+Almanya'da veya Avrupa'da benzer bir süreci yaşadıysanız — farklı sonuçlar, farklı deneyimler — duymak isterim. Bu blog tek kişinin notları, ama okuyucuların deneyimleri yazıları daha güçlü kılıyor.
+
+**Düzeltme veya güncelleme için**
+Mevzuat değişiyor, prosedürler güncelleniyor. Yanlış veya eskimiş bir bilgi gördüyseniz lütfen bildirin — düzeltirim.
+
+**İş birliği için**
+Almanya, Avrupa veya seyahat konularında içerik iş birliği, misafir yazarlık veya başka bir proje öneriniz varsa yazın.
+
+**Sadece soru sormak için**
+Almanya bürokrasisi, taşınma süreci veya gezi planlaması hakkında bir sorunuz varsa — cevabını biliyorsam paylaşırım, bilmiyorsam dürüstçe söylerim.
+
+---
+
+*Yanıt süresi genellikle 24-48 saat.*

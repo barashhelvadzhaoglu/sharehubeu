@@ -177,3 +177,9 @@ Varies by time. Bikes are prohibited during peak weekday hours. Check DB Navigat
 
 **Austria and Switzerland?**
 Valid to the border. Additional ticket needed for cross-border travel — but very cheap.
+
+---
+*Day trip guides:*
+- [Augsburg](/en/germany/travel/augsburg-travel-guide/) · [Füssen](/en/germany/travel/fuessen-town-travel-guide/) · [Neuschwanstein](/en/germany/travel/neuschwanstein-castle-guide/)
+- [Memmingen](/en/germany/travel/memmingen-travel-guide/) · [Lindau](/en/germany/travel/lindau-lake-constance-travel-guide/) · [Regensburg](/en/germany/travel/regensburg-travel-guide/)
+- [Romantic Road Guide](/en/germany/romantic-route/romantic-road-guide/)

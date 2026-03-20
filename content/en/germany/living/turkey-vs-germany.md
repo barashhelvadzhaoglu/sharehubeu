@@ -111,3 +111,10 @@ Your balance might look different. That's okay. The point is to look at it hones
 
 ### Tags
 `#TurkeyVsGermany` `#ExpatLife` `#LivingInGermany` `#LivingInTurkey` `#MovingAbroad` `#GermanBureaucracy` `#ExpatComparison` `#MunichExpat` `#TurkishExpat` `#GermanEducation` `#AusbildungGermany` `#EuropeExpat` `#CulturalDifferences` `#MoveToGermany` `#ShareHubEU`
+
+---
+*This is the overview article of the Turkey vs Germany series. Explore individual topics:*
+- [Health System](/en/germany/living/health-system-turkey-vs-germany/) · [Housing](/en/germany/living/housing-turkey-vs-germany/) · [Food](/en/germany/living/food-turkey-vs-germany/)
+- [Work-Life Balance](/en/germany/living/work-life-turkey-vs-germany/) · [Language](/en/germany/living/language-barrier-turkey-vs-germany/) · [Social Life](/en/germany/living/social-life-turkey-vs-germany/)
+- [Education](/en/germany/living/primary-school-turkey-vs-germany/) · [Childcare](/en/germany/living/kita-childcare-turkey-vs-germany/) · [Healthcare](/en/germany/living/health-system-turkey-vs-germany/)
+- [Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
